@@ -36,6 +36,7 @@ a {
   color:#39c;
   font-weight:400;
   text-decoration:none;
+  outline: 0;
 }
 
 a small {
@@ -44,6 +45,16 @@ a small {
   margin-top:-0.6em;
   display:block;
 }
+
+a.nav:link {color: #777; font-weight:bold; text-decoration: none; }
+a.nav:visited {color: #777; font-weight:bold; text-decoration: none; }
+a.nav:hover {color: #777; font-weight:bold; text-decoration: underline; }
+a.nav:active {color: #777; font-weight:bold;} 
+
+a.mO:link {color: #777; text-decoration: none; }
+a.mO:visited {color: #777; text-decoration: none; }
+a.mO:hover {color: #777; text-decoration: underline; }
+a.mO:active {color: #777; } 
 
 .wrapper {
   width:860px;
