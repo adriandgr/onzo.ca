@@ -1,7 +1,4 @@
-adriandgr.github.io
+Jekyll Source Files
 ===================
 
-adriandiaz.ca
-
-
-This is the repository that hosts files for adriandiaz.ca, a personal portfolio.
+The "learn Arduino + Processing" website is rendered by GitHub using Jekyll.

@@ -1,0 +1,31 @@
+# Site settings
+title: adriandiaz.ca
+email: web.art@adriandiaz.ca
+description: "The home of Adrian Diaz's artist portfolio."
+baseurl: "http://adriandgr.github.io"
+url: "http://adriandgr.github.io"
+twitter_username: adgr72
+github_username:  adriandgr
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+authors:
+  adrian:
+    name: Adrian Diaz
+    display_name: Adrian
+    profile: adrian
+    gravatar: 1092e44f33d0454dfb580e19f3687ce8
+    email: web.art@adriandiaz.ca
+    web: http://www.adriandiaz.ca/
+    twitter: adgr72
+    github: adriandgr
+    
+collections:
+  contributors:
+    output: true
+    permalink: /contributors/:path/
+  resources:
+    output: true
+    permalink: /resources/:path/
