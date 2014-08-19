@@ -98,6 +98,13 @@ pre {
   overflow-x: auto;
 }
 
+pre, code {
+  border: 1px solid #d5d5e9;
+  padding: 8px 12px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
 
 code { padding: 1px 5px; }
 
