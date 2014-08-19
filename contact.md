@@ -10,8 +10,19 @@ permalink: /contact/
 For all artistic inquiries, please write to me at:
 <pre>obj.art@adriandiaz.ca</pre>
 
-All web-related and technical queries should find their way to:
-      web.art@adriandiaz.ca
+Web-related and technical queries: <pre><code>web.art@adriandiaz.ca</pre></code>
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 ### About the `adriandiaz.ca` backend
 
