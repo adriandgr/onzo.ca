@@ -15,4 +15,5 @@
     <![endif]-->
     <script src="{{ "/js/clmenu.js" | prepend: site.baseurl }}" type="text/javascript"></script>
     <link rel="stylesheet" href="{{ "/css/clmenu.css" | prepend: site.baseurl }}" type="text/css">
+    {% if page.shadowbox == true %}{% include shadowbox-init.html %}{% endif %}
 </head>

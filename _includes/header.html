@@ -3,7 +3,7 @@
    <div class="mC">
      <div class="mH" onclick="toggleMenu('menu1')"><a class="nav" href="#">portfolio</a></div>
      <div id="menu1" class="mL">
-       {% for post in site.resources %}
+       {% for post in site.portfolio %}
            <a class="mO" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
        {% endfor %}
        <a class="mO" href="portfolio/2014/bonheur.html">Le Bonheur de Vivre</a>

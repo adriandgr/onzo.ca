@@ -21,11 +21,11 @@ authors:
     web: http://www.adriandiaz.ca/
     twitter: adgr72
     github: adriandgr
-    
+
 collections:
   contributors:
     output: true
     permalink: /contributors/:path/
-  resources:
+  portfolio:
     output: true
     permalink: /resources/:path/
