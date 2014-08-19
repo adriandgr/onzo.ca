@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: updates
 permalink: /updates/
 ---
@@ -10,7 +10,7 @@ permalink: /updates/
   <h1 margin-bottom="25px">posts</h1>
 
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.resources %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
