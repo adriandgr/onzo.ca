@@ -3,6 +3,9 @@
    <div class="mC">
      <div class="mH" onclick="toggleMenu('menu1')"><a class="nav" href="#">portfolio</a></div>
      <div id="menu1" class="mL">
+       {% for post in site.resources %}
+           <a class="mO" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+       {% endfor %}
        <a class="mO" href="portfolio/2014/bonheur.html">Le Bonheur de Vivre</a>
        <a class="mO" href="portfolio/2014/pictureBook.html">Picture Book</a>
        <a class="mO" href="portfolio/2014/subaltern.html">The Subaltern Pixel</a>
