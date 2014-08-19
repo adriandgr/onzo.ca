@@ -23,8 +23,12 @@ Hostname: pgp.mit.edu
 
 ### Social Links
 
-Even though I have an online presence in more than 3 sites, I've chosen only to
-share these. Each one has a particular reason for having made it onto this list.
+Even though I have an online presence in more sites than the ones I'm providing,
+each one of these has been carefully chosen for a number of reasons. Even though
+I don't *tweet* as much as I should, I find this tool to be incredibly useful
+for connecting all sorts of creative individuals. It's 140 character,
+open, elegant structure encourages new connections and the sharing ephemera.
+
 
 * **Twitter:** [adgr72] [1]
 * **GitHub:** [adriandgr] [2]
@@ -41,3 +45,4 @@ share these. Each one has a particular reason for having made it onto this list.
 I love technology.
 
 <img src="{{ site.baseurl }}/img/GitHub.jpg" alt="GitHub" height="234px" width="400px">
+<img src="{{ site.baseurl }}/img/hover.jpg" alt="Hover" height="210px" width="640px">
