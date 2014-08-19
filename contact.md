@@ -12,3 +12,9 @@ For all artistic inquiries, please write to me at:
 
 All web-related and technical queries should find their way to:
       web.art@adriandiaz.ca
+
+### About the `adriandiaz.ca` backend
+
+I love technology.
+
+<img src="{{ site.baseurl }}/img/GitHub.jpg" alt="GitHub" height="234px" width="400px">
