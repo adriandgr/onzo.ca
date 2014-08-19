@@ -26,8 +26,15 @@ Hostname: pgp.mit.edu
 Even though I have an online presence in more sites than the ones I'm providing,
 each one of these has been carefully chosen for a number of reasons. Even though
 I don't *tweet* as much as I should, I find this tool to be incredibly useful
-for connecting all sorts of creative individuals. It's 140 character,
-open, elegant structure encourages new connections and the sharing ephemera.
+for connecting all sorts of creative individuals. Its 140 character format and
+distribution method is fast, simple, open, elegant, and encourages new connections
+while providing a unique emphasis on ephemera.
+
+*GitHub* is a tool which I'm just
+barely exploring the tip of an incredibly powerful iceberg. Not only does it provide the
+backend of this website, or advanced version control features for
+solo and collaborative projects, it also connects creative individuals wishing to
+share such endeavours.
 
 
 * **Twitter:** [adgr72] [1]
