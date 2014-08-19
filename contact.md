@@ -10,7 +10,7 @@ permalink: /contact/
 For all artistic inquiries, please write to me at:
 <pre>obj.art@adriandiaz.ca</pre>
 
-Web-related and technical queries: <pre><code>web.art@adriandiaz.ca</pre></code>
+Web-related and technical queries: <pre><code>web.art@adriandiaz.ca</code></pre>
 
 ```ruby
 require 'redcarpet'
