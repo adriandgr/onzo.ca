@@ -26,9 +26,9 @@ Hostname: pgp.mit.edu
 Even though I have an online presence in more than 3 sites, I've chosen only to
 share these. Each one has a particular reason for having made it onto this list.
 
-* Twitter: [adgr72] [1]
-* GitHub: [adriandgr] [2]
-* Diaspora*: [adriandgr@diasp.de] [3]
+* **Twitter:** [adgr72] [1]
+* **GitHub:** [adriandgr] [2]
+* **Diaspora*:** [adriandgr@diasp.de] [3]
 
 
   [1]: https://twitter.com/adgr72        "I love @ mentions"
