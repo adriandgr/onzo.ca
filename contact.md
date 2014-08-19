@@ -30,7 +30,7 @@ I don't *tweet* as much as I should but I find this tool to be incredibly useful
 for connecting all sorts of creative individuals. Its 140 character format and
 distribution method is fast // simple // open // elegant // and encourages new connections
 while providing a unique emphasis on ephemera. You may follow me at [adgr72] [1].
-If you're following me right after reading this, I encourage you to also *@mention* me with the hashtag **#webart**, and I will reply back to you!
+If you're following me right after reading this, I encourage you to also *@mention* me with the hashtag *#webart*, and I will reply back to you!
 
 *GitHub* is a tool which I'm just
 barely exploring the tip of what surely is an incredibly powerful iceberg. Not only does it provide the
