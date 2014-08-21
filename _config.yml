@@ -28,4 +28,4 @@ collections:
     permalink: /contributors/:path/
   portfolio:
     output: true
-    permalink: /portfolio/:year/:path/
+    permalink: /portfolio/{{post.year}}/:path/
