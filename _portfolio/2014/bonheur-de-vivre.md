@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: portfolio
 title:  "Le Bonheur de Vivre"
 date:   2014-07-25 16:59:48
 author: adrian
