@@ -4,7 +4,7 @@
     <title>{{ site.title }}.get({% if page.title %} '{{ page.title }}' {% else %} 'content' {% endif %})</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl }}">
