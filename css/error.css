@@ -29,6 +29,8 @@ body {
     position:relative;
     margin: 0 auto;
     max-width: 300px;
+    text-align: center;
+    font-family: 'Inconsolata';
     background-color: #000000;
     color: #ffffff;
     padding: 5px;
