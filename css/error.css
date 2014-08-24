@@ -6,8 +6,15 @@ body {
 
 .switch-boys {
     max-width: 800px;
-    background-image: url('http://adriandgr.github.io/img/404/switch-boys.png');
-    background-repeat: no-repeat;
+    background: url('http://adriandgr.github.io/img/404/switch-boys.png') no-repeat center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
+    min-width: 1024px;
+    min-height: 768px;
+    height:100%;
+
 
 }
