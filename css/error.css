@@ -6,8 +6,6 @@ body {
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
-  min-width: 1024px;
-  min-height: 1068px;
   height:100%;
 }
 
