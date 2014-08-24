@@ -2,6 +2,7 @@ body {
   background-color: #ffffff;
   background: url('http://adriandgr.github.io/img/404/switch-boys.png') no-repeat;
   background-attachment: fixed;
+  background-position: left center; 
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
