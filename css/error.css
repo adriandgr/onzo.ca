@@ -15,7 +15,7 @@ body {
 .error-mssg {
     position:absolute;
     bottom: 10px;
-    left: 200px;
+    margin: 0 auto;
     background-color: #000000;
     color: #ffffff;
     padding: 10px;
