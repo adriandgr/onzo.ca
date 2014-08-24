@@ -19,10 +19,29 @@
 
 
     <body>
+      <script>
+function dynDIV() {
+    var h = window.innerHeight;
+    var r = 288/305;
+    var gap = (r*h) + 50;
+    var div = document.getElementById('dyn-error').innerHTML ="
+    .error-mssg {
+      positon: absolute;
+      top: 100px;
+      left: " + gap + ";
+    }
+    ";
+
+}
+</script>
+
+<style onload="dynDIV()">
+</style>
+
       <div class="switch-boys"><br /><br /><br /><br /><br />
       </div>
 
-      <div class="error-mssg">
+      <div class="error-mssg" id="dyn-error" style="">
       <section>
         {{ content }}
       </section>
