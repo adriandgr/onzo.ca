@@ -8,6 +8,6 @@ body {
     max-width: 800px;
     background-image: url('http://adriandgr.github.io/img/404/switch-boys.png');
     background-repeat: no-repeat;
-    background-size: 70%;
+    background-size: cover;
 
 }
