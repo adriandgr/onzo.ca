@@ -16,12 +16,13 @@ body {
 
 .error-wrap{
   position: absolute;
-  width: 95%;
+  width: 98%;
   bottom: 10px;
 }
 .error-mssg {
     position:relative;
     margin: 0 auto;
+    max-width: 300px;
     background-color: #000000;
     color: #ffffff;
     padding: 5px;
