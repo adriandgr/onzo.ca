@@ -2,7 +2,7 @@ body {
   background-color: #ffffff;
   background: url('http://adriandgr.github.io/img/404/switch-boys.png') no-repeat;
   background-attachment: fixed;
-  background-position: left center; 
+  background-position: left center;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -13,7 +13,12 @@ body {
 
 
 .switch-boys {
-    max-width: 800px;
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    max-width: 50px;
+    background-color: #000000;
+    font-color: #ffffff;
 
 
 
