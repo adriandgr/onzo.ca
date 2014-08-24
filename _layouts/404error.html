@@ -24,23 +24,20 @@ function dynDIV() {
     var h = window.innerHeight;
     var r = 288/305;
     var gap = (r*h) + 50;
-    document.getElementById('dyn-error').innerHTML ="
-    .error-mssg {
-      positon: absolute;
-      top: 200px;
-      left: " + gap + ";
-    }
-    ";
+    var myDiv = document.getElementById('dyn-error').style;
+    myDiv.position = "absolute";
+    myDiv.top = "100px";
+    myDiv.left = gap+"px";
 }
 </script>
 
-<style onload="dynDIV()" id="dyn-error">
+<style >
 </style>
 
       <div class="switch-boys"><br /><br /><br /><br /><br />
       </div>
 
-      <div class="error-mssg"  style="">
+      <div class="error-mssg" onload="dynDIV()" id="dyn-error">
       <section>
         {{ content }}
       </section>
