@@ -11,7 +11,10 @@ body {
 }
 
 
-
+.error-wrap{
+  position: relative
+  margin: 0 auto;
+}
 .error-mssg {
     position:absolute;
     bottom: 10px;
