@@ -1,0 +1,16 @@
+<header>
+  <h1 class="adrian"><a class="siteTitle" href="{{ site.url }}">Adrian Diaz</a></h1>
+   <div class="mC">
+     <div class="mH" onclick="toggleMenu2('menu1')"><a class="nav" href="#">portfolio</a></div>
+     <div id="menu1" class="mP">
+       {% for post in site.portfolio %}
+           <a class="mO" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+       {% endfor %}
+     </div>
+     <div class="mH"><a class="nav" href="{{ site.url }}/statement/">artist statement</a></div>
+     <div class="mH"><a class="nav" href="{{ site.url }}/texts/">selected texts</a></div>
+     <div class="mH"><a class="nav" href="{{ site.url }}/research/">research</a></div>
+     <div class="mH"><a class="nav" href="{{ site.url }}/cv/">cv</a></div>
+     <div class="mH"><a class="nav" href="{{ site.url }}/contact/">contact</a></div>
+   </div>
+</header>
