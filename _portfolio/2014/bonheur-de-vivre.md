@@ -6,5 +6,5 @@ author: adrian
 shadowbox: true
 ---
 
-<a href="{{site.url}}/img/bonheur/stack1.jpg" rel="shadowbox" title="Le Bonheur de Vivre">
-<img src="{{site.url}}/img/bonheur/stack1-pre.jpg"></a>
+<a href="{{site.url}}/img/2014/bonheur/stack1.jpg" rel="shadowbox" title="Le Bonheur de Vivre">
+<img src="{{site.url}}/img/2014/bonheur/stack1-pre.jpg"></a>
