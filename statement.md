@@ -5,7 +5,7 @@ permalink: /statement/
 ---
 
 
-{% java ruby %}
+{% highlight java %}
 import org.ubc.bfa;
 
 /**
