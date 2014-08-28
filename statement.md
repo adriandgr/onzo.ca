@@ -39,11 +39,15 @@ public class ArtistStatement extends Theory {
     }
   }
 }
-</pre> 
-**Artist statement submitted to _Marinate Me_ BFA graduation catalogue.** <br />
+</pre>
+**Artist statement submitted to _Marinate Me_, BFA graduation catalogue.** <br />
 *Metafictitious program written in Java*<br />
 2014
 
+
+### Bio
+
+Adrian Diaz was born in Mexico City, where he grew up. He moved to Sao Paulo from 2001 to 2006.
 
 ### Statement
 
