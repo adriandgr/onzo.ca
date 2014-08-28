@@ -11,5 +11,5 @@ shadowbox: true
 <img src="{{site.url}}/img/2014/pictureBook/pictureBook-pre.jpg" alt="Picture Book"></a>
 
 **Picture Book** <br />
-*Hand crafted slide transparencies on a relay timer with user-activated audio narration* <br />
+*Hand crafted slide transparencies on a relay timer with user-activated audio narration.* <br />
 2014
