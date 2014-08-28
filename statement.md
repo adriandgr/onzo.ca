@@ -39,7 +39,7 @@ public class ArtistStatement extends Theory {
     }
   }
 }
-</pre> <br />
+</pre> 
 **Artist statement submitted to _Marinate Me_ BFA graduation catalogue.** <br />
 *Metafictitious program written in Java*<br />
 2014
