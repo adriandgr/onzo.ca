@@ -5,6 +5,12 @@ permalink: /statement/
 ---
 
 
+### Bio
+
+Adrian Diaz was born in Mexico City, where he grew up. He moved to Sao Paulo from 2001 to 2006.
+
+<br />
+
 {% highlight java %}
 import org.ubc.bfa;
 
@@ -46,10 +52,6 @@ public class ArtistStatement extends Theory {
 
 <br/>
 
-
-### Bio
-
-Adrian Diaz was born in Mexico City, where he grew up. He moved to Sao Paulo from 2001 to 2006.
 
 ### Statement
 
