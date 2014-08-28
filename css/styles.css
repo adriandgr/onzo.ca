@@ -115,31 +115,7 @@ pre code {
   padding-left: 0;
 }
 
-.portWrap {
-  positon: relative;
-  max-width: 600px;
-}
-.portfolioCaptions {
-  position:absolute;
-  top:1px;
-  right:-10.3254em;
-  padding-top:10px;
-  padding-left:0;
-  padding-right:0;
-  width:12.7074em;
-  text-align:left
-  padding-left:3.236em;
-  padding-right:3.236em;
-  font-family:"Helvetica Neue","Segoe UI",Arial,sans-serif;
-  font-size:12px;
-  font-size:0.75rem;
-  line-height:1.25;
-  margin-bottom:0;
-  color:#4b4b49;
-  text-align:center;
-  clear:both
 
-  }
 
 table {
   width:100%;
