@@ -8,4 +8,4 @@ shadowbox: true
 ---
 
 <a href="{{site.url}}/img/2014/pictureBook/pictureBook.jpg" rel="shadowbox" title="Picture Book">
-<img src="{{site.url}}/img/2014/picuteBook/pictureBook-pre.jpg" alt="Picture Book"></a>
+<img src="{{site.url}}/img/2014/pictureBook/pictureBook-pre.jpg" alt="Picture Book"></a>
