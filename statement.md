@@ -7,7 +7,10 @@ permalink: /statement/
 
 ### Bio
 
-Adrian Diaz was born in Mexico City, where he grew up. He moved to Sao Paulo from 2001 to 2006.
+Born in Mexico City, Adrian Diaz grew up in this hispanic metropolitan center, where he developed a
+keen interest in the arts. Since an early age he learned to play the violin, a practice he
+continues to enjoy. He moved with his family to Brazil from 2001 to 2006, studying at Escola
+Graduada, the American school of Sao Paulo.
 
 <br />
 
@@ -17,7 +20,7 @@ import org.ubc.bfa;
 /**
  * "El juego es una forma de ficción, un orden artificial
  * impuesto sobre el mundo."
- *               - La Trompeta de Deyá, Mario Vargas Llosa.
+ *              - La Trompeta de Deyá, Mario Vargas Llosa.
  */
 
 public class ArtistStatement extends Theory {
