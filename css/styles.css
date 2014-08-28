@@ -115,6 +115,10 @@ pre code {
   padding-left: 0;
 }
 
+.portWrap {
+  positon: relative;
+  max-width: 600px;
+}
 .portfolioCaptions {
   position:absolute;
   top:1px;

@@ -7,10 +7,12 @@ author: adrian
 shadowbox: true
 ---
 
+<div class="portWrap">
 <div class="portfolioCaptions">
 **Picture Book** <br />
 *Hand crafted slide transparencies on a relay timer with user-activated audio narration* <br />
 2014
+</div>
 </div>
 
 <a href="//player.vimeo.com/video/96121904?portrait=0&amp;autoplay=1" rel="shadowbox;width=800;height=450" title="Picture Book">
