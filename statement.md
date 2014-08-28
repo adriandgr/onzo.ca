@@ -5,7 +5,7 @@ permalink: /statement/
 ---
 
 
-<pre>
+{% java ruby %}
 import org.ubc.bfa;
 
 /**
@@ -39,7 +39,7 @@ public class ArtistStatement extends Theory {
     }
   }
 }
-</pre>
+{% endhighlight %}
 **Artist statement submitted to _Marinate Me_, BFA graduation catalogue.** <br />
 *Metafictitious program written in Java*<br />
 2014

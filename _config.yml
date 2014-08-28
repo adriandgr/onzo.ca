@@ -9,6 +9,7 @@ github_username:  adriandgr
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 permalink: pretty
 
 authors:
