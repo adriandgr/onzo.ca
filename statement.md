@@ -23,7 +23,7 @@ import org.ubc.bfa;
 public class ArtistStatement extends Theory {
 
   private degree = new bfa();
-  private work =  new Theory();
+  private work =  new theory();
   private boolean artworkSuccess = false;
 
   public static void main(String[] args) {
