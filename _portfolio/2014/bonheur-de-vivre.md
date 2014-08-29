@@ -16,8 +16,6 @@ disqus-id: /2014/bonheur-de-vivre/
 *Six silver gelatin prints on fiber based paper* <br />
 2014
 
-page id:
-{{page.id}}
+{{ page.title }}
 
-page url:
-{{page.url}}
+'{{ site.url }}{{ page.url }}';
