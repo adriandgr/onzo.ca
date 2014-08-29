@@ -12,16 +12,6 @@ markdown: kramdown
 highlighter: pygments
 permalink: pretty
 
-authors:
-  adrian:
-    name: Adrian Diaz
-    display_name: Adrian
-    profile: adrian
-    gravatar: 1092e44f33d0454dfb580e19f3687ce8
-    email: web.art@adriandiaz.ca
-    web: http://www.adriandiaz.ca/
-    twitter: adgr72
-    github: adriandgr
 
 collections:
   contributors:
@@ -30,3 +20,20 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+
+# Site owner
+owner:
+  name: Adrian Diaz
+  display_name: Adrian
+  web: http://www.adriandiaz.ca
+  email: web.art@adriandiaz.ca
+  twitter: adgr72
+  github: adriandgr
+  gravatar: 1092e44f33d0454dfb580e19f3687ce8
+  bio: "A Vancouver-based artist"
+  avatar: bio/shifting.jpg # 160x160 px image for author byline
+  google:
+    plus: +AdrianDiazArt
+    ad-client: ca-pub-(+16digit)
+    ad-slot: (10digitNumber)
+  disqus-shortname: adriandiaz

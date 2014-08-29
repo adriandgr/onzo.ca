@@ -13,6 +13,9 @@
       </section>
 
       {% include footer.html %}
+      <aside>
+					{% if page.comments == true %}{% include comments.html %}{% endif %}
+				</aside>
       </div>
       <script src="javascripts/scale.fix.js"></script> <!-- FIX THIS LINK! -->
       {% include google-analytics.html %}
