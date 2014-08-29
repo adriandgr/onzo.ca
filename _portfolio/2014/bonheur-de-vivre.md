@@ -5,6 +5,7 @@ date:   2014-07-25 16:59:48
 author: adrian
 shadowbox: true
 comments: true
+disqus-id: /2014/bonheur-de-vivre/
 ---
 
 
@@ -14,3 +15,5 @@ comments: true
 **Le Bonheur de Vivre series** <br />
 *Six silver gelatin prints on fiber based paper* <br />
 2014
+
+{{page.id}} {{page.url}}
