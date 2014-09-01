@@ -5,6 +5,7 @@ year: 2014
 date:   2014-07-25 16:59:48
 author: adrian
 shadowbox: true
+comments: true
 ---
 
 <a href="{{site.url}}/img/2014/subaltern/title.jpg" rel="shadowbox" title="The Subaltern Pixel">

@@ -5,6 +5,7 @@ year: 2014
 date:   2014-07-25 16:59:48
 author: adrian
 shadowbox: true
+comments: true
 ---
 
 <a href="//player.vimeo.com/video/96121904?portrait=0&amp;autoplay=1" rel="shadowbox;width=800;height=450" title="Picture Book">
