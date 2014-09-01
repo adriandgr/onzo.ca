@@ -7,4 +7,9 @@ author: adrian
 shadowbox: true
 ---
 
-### Coming soon
+<a href="{{site.url}}/img/2014/subaltern/title.jpg" rel="shadowbox" title="The Subaltern Pixel">
+<img src="{{site.url}}/img/2014/subaltern/title-pre.jpg"></a>
+
+**Le Bonheur de Vivre series** <br />
+*Six silver gelatin prints on fiber based paper* <br />
+2014

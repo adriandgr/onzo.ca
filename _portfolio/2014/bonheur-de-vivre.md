@@ -14,7 +14,3 @@ comments: true
 **Le Bonheur de Vivre series** <br />
 *Six silver gelatin prints on fiber based paper* <br />
 2014
-
-{{ page.title }}
-
-'{{ site.url }}{{ page.url }}';
