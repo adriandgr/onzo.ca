@@ -14,6 +14,8 @@ shadowbox: true
 ## Research
 
 <div class="thumbs">
+<a href="{{site.url}}/img/research/designhousestockholm-com/cordlamp.jpg" rel="shadowbox[research]" title="Cord Lamp, designhousestockholm.com">
+<img border="0" src="{{site.url}}/img/research/designhousestockholm-com/cordlamp-thumb.jpg"></a>
 
 <a href="{{site.url}}/img/research/placesiveneverbeen-com/addiewagenknecht.jpg" rel="shadowbox[research]" title="Addie Wagenknecht, placesiveneverbeen.com">
 <img border="0" src="{{site.url}}/img/research/placesiveneverbeen-com/addiewagenknecht-thumb.jpg"></a>
