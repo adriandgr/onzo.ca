@@ -31,4 +31,7 @@ shadowbox: true
 
 <a href="{{site.url}}/img/research/antoniahirsch-com/metrique2.jpg" rel="shadowbox[research]" title="Photographie Métrique 3, antoniahirsch.com">
 <img border="0" src="{{site.url}}/img/research/antoniahirsch-com/metrique2-thumb.jpg"></a>
+
+<a href="{{site.url}}/img/research/neilharbisson-com/harbisson.jpg" rel="shadowbox[research]" title="Niel Harbisson, erraticario.com">
+<img border="0" src="{{site.url}}/img/research/neilharbisson-com/harbisson-thumb.jpg"></a>
 </div>
