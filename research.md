@@ -17,13 +17,16 @@ shadowbox: true
 <a href="{{site.url}}/img/research/designhousestockholm-com/cordlamp.jpg" rel="shadowbox[research]" title="Cord Lamp, designhousestockholm.com">
 <img border="0" src="{{site.url}}/img/research/designhousestockholm-com/cordlamp-thumb.jpg"></a>
 
-<a href="{{site.url}}/img/research/fffff-at/gold1.jpg" rel="shadowbox[research]" title="GOLD Europe, fffff.at">
+<a href="{{site.url}}/img/research/fffff-at/fatcart.jpg" rel="shadowbox[research]" title="Data Klubb, fffff.at">
+<img border="0" src="{{site.url}}/img/research/fffff-at/fatcart-thumb.jpg"></a>
+
+<a href="{{site.url}}/img/research/fffff-at/gold1.jpg" rel="shadowbox[research]" title="F.A.T. GOLD Europe, fffff.at">
 <img border="0" src="{{site.url}}/img/research/fffff-at/gold1-thumb.jpg"></a>
 
-<a href="{{site.url}}/img/research/fffff-at/gold2.jpg" rel="shadowbox[research]" title="GOLD Europe, fffff.at">
+<a href="{{site.url}}/img/research/fffff-at/gold2.jpg" rel="shadowbox[research]" title="F.A.T. GOLD Europe, fffff.at">
 <img border="0" src="{{site.url}}/img/research/fffff-at/gold2-thumb.jpg"></a>
 
-<a href="{{site.url}}/img/research/fffff-at/gold3.jpg" rel="shadowbox[research]" title="GOLD Europe, fffff.at">
+<a href="{{site.url}}/img/research/fffff-at/gold3.jpg" rel="shadowbox[research]" title="F.A.T. GOLD Europe, fffff.at">
 <img border="0" src="{{site.url}}/img/research/fffff-at/gold3-thumb.jpg"></a>
 
 <a href="{{site.url}}/img/research/placesiveneverbeen-com/addiewagenknecht.jpg" rel="shadowbox[research]" title="Addie Wagenknecht, placesiveneverbeen.com">
