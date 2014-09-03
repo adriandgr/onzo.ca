@@ -39,11 +39,12 @@ barely exploring the tip of what surely is an incredibly powerful iceberg. Not o
 backend for this website, or advanced version control features for
 solo and collaborative projects, but it also connects creative individuals wishing to
 share such endeavours. You may send pull requests or fork my gits at [adriandgr] [2].
-
+<!--  
 Last but not least is diaspora*, which is a social network that aims to provide a
 similar toolsets than Facebook but is at its core fundamentally different. It is built
 upon the ideological belief that users should be empower to have control over their
-own data. Diaspora* is a distributed network and therefore does not rely on a centralized system. Join and add me at [adriandgr@diasp.de] [3].
+own data. Diaspora* is a distributed network and therefore does not rely on a centralized system.
+Join and add me at [adriandgr@diasp.de] [3].-->
 
 
   [1]: https://twitter.com/adgr72        "I love @ mentions"
