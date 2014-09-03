@@ -5,6 +5,11 @@ permalink: /research/
 shadowbox: true
 ---
 
+<style type="text/css">
+  .thumbs {padding:12px 0 0 0px;}
+  a img {border:none;border-bottom:0;padding:3px;}
+</style>
+
 
 ## Research
 
