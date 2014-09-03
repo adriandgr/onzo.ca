@@ -14,11 +14,20 @@ shadowbox: true
 ## Research
 
 <div class="thumbs">
-<a href="{{site.url}}/img/research/designhousestockholm-com/cordlamp.jpg" rel="shadowbox[research]" title="Cord Lamp, designhousestockholm.com">
-<img border="0" src="{{site.url}}/img/research/designhousestockholm-com/cordlamp-thumb.jpg"></a>
+<a href="{{site.url}}/img/research/fffff-at/gold1.jpg" rel="shadowbox[research]" title="GOLD Europe, fffff.at">
+<img border="0" src="{{site.url}}/img/research/fffff-at/gold1-thumb.jpg"></a>
+
+<a href="{{site.url}}/img/research/fffff-at/gold2.jpg" rel="shadowbox[research]" title="GOLD Europe, fffff.at">
+<img border="0" src="{{site.url}}/img/research/fffff-at/gold2-thumb.jpg"></a>
+
+<a href="{{site.url}}/img/research/fffff-at/gold3.jpg" rel="shadowbox[research]" title="GOLD Europe, fffff.at">
+<img border="0" src="{{site.url}}/img/research/fffff-at/gold3-thumb.jpg"></a>
 
 <a href="{{site.url}}/img/research/placesiveneverbeen-com/addiewagenknecht.jpg" rel="shadowbox[research]" title="Addie Wagenknecht, placesiveneverbeen.com">
 <img border="0" src="{{site.url}}/img/research/placesiveneverbeen-com/addiewagenknecht-thumb.jpg"></a>
+
+<a href="{{site.url}}/img/research/designhousestockholm-com/cordlamp.jpg" rel="shadowbox[research]" title="Cord Lamp, designhousestockholm.com">
+<img border="0" src="{{site.url}}/img/research/designhousestockholm-com/cordlamp-thumb.jpg"></a>
 
 <a href="{{site.url}}/img/research/nortd-com/touchkit.jpg" rel="shadowbox[research]" title="TouchKit, nortd.com">
 <img border="0" src="{{site.url}}/img/research/nortd-com/touchkit-thumb.jpg"></a>
