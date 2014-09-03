@@ -79,6 +79,8 @@ a.siteTitle:active {color: #000; font-weight:bold;}
 
 .thumbs {
 	padding:12px 0 0 0px;
+  border:none;
+	border-bottom:0;
   padding: 3px;
 }
 }
