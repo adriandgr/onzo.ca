@@ -23,6 +23,9 @@ shadowbox: true
 <a href="{{site.url}}/img/research/nortd-com/touchkit.jpg" rel="shadowbox[research]" title="TouchKit, nortd.com">
 <img border="0" src="{{site.url}}/img/research/nortd-com/touchkit-thumb.jpg"></a>
 
+<a href="{{site.url}}/img/research/jeppehein-net/labyrinth.jpg" rel="shadowbox[research]" title="Invisible Labyrinth, jeppehein.net">
+<img border="0" src="{{site.url}}/img/research/jeppehein-net/labyrinth-thumb.jpg"></a>
+
 <a href="{{site.url}}/img/research/antoniahirsch-com/metrique.jpg" rel="shadowbox[research]" title="Photographie Métrique 4, antoniahirsch.com">
 <img border="0" src="{{site.url}}/img/research/antoniahirsch-com/metrique-thumb.jpg"></a>
 
