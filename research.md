@@ -34,4 +34,7 @@ shadowbox: true
 
 <a href="{{site.url}}/img/research/neilharbisson-com/harbisson.jpg" rel="shadowbox[research]" title="Niel Harbisson, erraticario.com">
 <img border="0" src="{{site.url}}/img/research/neilharbisson-com/harbisson-thumb.jpg"></a>
+
+<a href="{{site.url}}/img/research/mudam-lu/graham.jpg" rel="shadowbox[research]" title="Dan Graham, mudam.lu">
+<img border="0" src="{{site.url}}/img/research/mudam-lu/graham-thumb.jpg"></a>
 </div>
