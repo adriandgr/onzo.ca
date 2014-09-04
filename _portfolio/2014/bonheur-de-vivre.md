@@ -11,6 +11,6 @@ comments: true
 <a href="{{site.url}}/img/2014/bonheur/stack1.jpg" rel="shadowbox" title="Le Bonheur de Vivre">
 <img src="{{site.url}}/img/2014/bonheur/stack1-pre.jpg"></a>
 
-**The Subaltern Pixel** <br />
-*Installation of 8 pieces.* <br />
+**Le Bonheur de Vivre** <br />
+*Series of 5 silver gelatin prints on 20x24in fiber based paper.* <br />
 2014

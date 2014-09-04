@@ -51,10 +51,10 @@ Join and add me at [adriandgr@diasp.de] [3].-->
   [2]: https://github.com/adriandgr  "The heart of this website!"
   [3]: https://diasp.de/people/ed891d3004c901329d9d543d7ed6cc36    "A Facebook alternative"
 
-
+<!--
 ### About the `adriandiaz.ca` backend
 
 I love technology.
 
 <img src="{{ site.baseurl }}/img/GitHub.jpg" alt="GitHub" height="234px" width="400px">
-<img src="{{ site.baseurl }}/img/hover.jpg" alt="Hover" height="210px" width="640px">
+<img src="{{ site.baseurl }}/img/hover.jpg" alt="Hover" height="210px" width="640px"> --> 
