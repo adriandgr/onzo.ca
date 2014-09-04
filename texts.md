@@ -5,4 +5,6 @@ permalink: /texts/
 ---
 
 
-### Texts
+## Selected Texts
+
+Coming soon.
