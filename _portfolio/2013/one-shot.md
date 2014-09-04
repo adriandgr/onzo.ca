@@ -17,5 +17,5 @@ comments: true
 In this live performance, the artist creates a delineated space within the gallery,
 where he carries out a series of unscripted actions. Outside of this space, a medium
 format camera is left on a plinth along with a scripted set of instructions,
-explaining the viewer how to operate the camera. The performance is set to end as
-soon as the first image is captured.
+explaining the viewer how to operate the camera as well as a statement warning that
+the performance is set to end as soon as the first image is captured.
