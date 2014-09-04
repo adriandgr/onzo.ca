@@ -20,5 +20,3 @@ Bonheur de Vivre* through a journey of different color spaces (the way computers
 store and think about color information). He then represents the painting five
 times as different height paper stacks proportional to the varying file
 sizes these transformations produce.
-
-<br /><br />
