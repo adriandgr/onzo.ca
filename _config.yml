@@ -1,9 +1,9 @@
 # Site settings
-title: adriandiaz.ca
+title: ONZO art
 email: web.art@adriandiaz.ca
-description: "The home of Adrian Diaz's artist portfolio."
-baseurl: "http://www.adriandiaz.ca"
-url: "http://www.adriandiaz.ca"
+description: "The home of Ridia Onzo's artist portfolio."
+baseurl: "http://www.onzo.ca"
+url: "http://www.onzo.ca"
 twitter_username: adgr72
 github_username:  adriandgr
 
@@ -25,7 +25,7 @@ collections:
 owner:
   name: Adrian Diaz
   display_name: Adrian
-  web: http://www.adriandiaz.ca
+  web: http://www.onzo.ca
   email: web.art@adriandiaz.ca
   twitter: adgr72
   github: adriandgr
