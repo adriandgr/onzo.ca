@@ -19,7 +19,7 @@ Processed — Group Show by The Shifting @ TAXI.
 ### Press
 
 **2013** <br />
-Theo Nee Cho. "The Persistence of Process: Group Exhibition." *Decoy Magazine*. August 23, 2013, [http://decoymagazine.ca/the-persistence-of-process-group-exhibition/][4]. 
+Theo Nee Cho. "The Persistence of Process: Group Exhibition." *Decoy Magazine*. August 23, 2013, [http://decoymagazine.ca/the-persistence-of-process-group-exhibition/][4]. <br />
 Rhys Edwards. "How Architecture and Art Mingle on UBC Campus." *The Ubyssey*. March 13, 2013, [http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/][2].
 
 
