@@ -11,7 +11,7 @@ permalink: /cv/
 [Concatenation Project][3] — Group Show @ The Art Gallery (TAG), AMS.
 
 **2014** <br />
-[Marinate Me][1] — BFA Grad Show @ Audain Art Centre, University of British Columbia.
+[Marinate Me][1] — BFA Grad Show @ Audain Art Centre, University of British Columbia. <br />
 [LoL ((Lots of Love))][5] — Group Show @ Skylight Gallery, SWARM15.
 
 **2013** <br />
