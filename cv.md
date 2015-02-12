@@ -7,11 +7,14 @@ permalink: /cv/
 
 ## CV
 
+**2015** <br />
+[Concatenation Project][3] — Group Show, The Art Gallery (TAG), AMS.
+
 **2014** <br />
 [Marinate Me][1] — BFA Grad Show, University of British Columbia.
 
 **2013** <br />
-Processed - Group Show, The Shifting.
+Processed — Group Show, The Shifting.
 
 ### Press
 
@@ -21,3 +24,4 @@ Rhys Edwards. "How Architecture and Art Mingle on UBC Campus." *The Ubyssey*. Ma
 
 [1]:http://gallery.ahva.ubc.ca/2014/04/04/marinate-me-ubc-2014-bfaba-visual-art-graduating-exhibition/        "AHVA Department Website"
 [2]:http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/        "ubyssey.ca"
+[3]:http://www.concatenationproject.com/about/ "Concatenation Project"
