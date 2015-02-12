@@ -12,9 +12,10 @@ permalink: /cv/
 
 **2014** <br />
 [Marinate Me][1] — BFA Grad Show @ Audain Art Centre, University of British Columbia.
+[LoL ((Lots of Love))][5] — Group Show @ Skylight Gallery, SWARM15.
 
 **2013** <br />
-Processed — Group Show by The Shifting @ TAXI.
+Processed — Group Show by The Shifting @ TAXI, Vancouver.
 
 ### Press
 
@@ -27,3 +28,4 @@ Rhys Edwards. "How Architecture and Art Mingle on UBC Campus." *The Ubyssey*. Ma
 [2]:http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/        "The Ubyssey"
 [3]:http://www.concatenationproject.com/about/ "Concatenation Project"
 [4]:http://decoymagazine.ca/the-persistence-of-process-group-exhibition/ "Decoy Magazine"
+[5]:http://www.paarc.ca/swarm15/ "PAARC SWARM"
