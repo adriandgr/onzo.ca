@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "That time a German artist decided to reinvent the chair."
+title:  "What you get when a German artist decided to reinvent the chair."
 date:   2015-02-22 00:48:00
 author: onzo
 categories: informal
