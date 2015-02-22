@@ -9,7 +9,7 @@ categories: informal
 <figure>
   <img src="{{site.url}}/img/2015/texts/breuer-slat-chair.jpg">
   <figcaption>
-    <b>Marcel Breuer, Slat Chair (1922)</b> <br />
+    <strong>Marcel Breuer, Slat Chair (1922)</strong> <br />
     Pearwood
   </figcaption>
 </figure>
