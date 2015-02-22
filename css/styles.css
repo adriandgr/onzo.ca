@@ -2,6 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Exo+2:500italic);
 @import url(http://fonts.googleapis.com/css?family=Vollkorn:400,700,400italic);
 @import url(http://fonts.googleapis.com/css?family=Josefin+Slab:700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600);
 
 @font-face
 {
@@ -12,7 +13,7 @@ src: url(sansation_light.woff);
 body {
   padding:50px;
   font:14px/1.5
-  font-family: 'Vollkorn', serif;
+  font-family: 'Open Sans', sans-serif;
   color:#777;
   font-weight:300;
 }
@@ -23,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1.adrian {
-	font-family: 'Josefin Slab', serif; font-weight: 400;
+	font-family: 'Open Sans', sans-serif; font-weight: 800;
 }
 
 p, ul, ol, table, pre, dl {
