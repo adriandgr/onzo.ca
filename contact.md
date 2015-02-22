@@ -11,10 +11,7 @@ permalink: /contact/
 ### I love e-mail
 
 For all artistic and professional inquiries, please write to me at:
-<pre>obj.art@adriandiaz.ca</pre>
-
-Web-related and technical queries should find their way to:
-<pre>web.art@adriandiaz.ca</pre>
+<pre>obj.art@onzo.ca</pre>
 
 Are you a computer geek like myself? Try sending me an encrypted message:
 <pre>
@@ -57,4 +54,4 @@ Join and add me at [adriandgr@diasp.de] [3].-->
 I love technology.
 
 <img src="{{ site.baseurl }}/img/GitHub.jpg" alt="GitHub" height="234px" width="400px">
-<img src="{{ site.baseurl }}/img/hover.jpg" alt="Hover" height="210px" width="640px"> --> 
+<img src="{{ site.baseurl }}/img/hover.jpg" alt="Hover" height="210px" width="640px"> -->
