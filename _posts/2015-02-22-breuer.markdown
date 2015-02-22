@@ -9,9 +9,9 @@ categories: informal
 <figure>
   <img src="{{site.url}}/img/2015/texts/breuer-slat-chair.jpg">
   <figcaption>
-    <b>Marcel Breuer, Slat Chair (1922)</b> <br />
+    **Marcel Breuer, Slat Chair (1922)** <br />
     Pearwood
   </figcaption>
 </figure>
 
-Why is the chair above art? How does this chair inform our understanding of current art practices? Why should we even care? After all, it's just a chair... and not a very comfortable one for that matter. Just look at the sharp angles at and staggered back support bands. I will set out to develop a daily writing practice, with the intent of demystifying iconic art pieces.
+Why is the chair pictured above art? How does this chair inform our understanding of current art practices? Why should we even care? After all, it's just a chair... and not a very comfortable one for that matter. Just look at the sharp angles at and staggered back support bands. I will set out to develop a daily writing practice, with the intent of demystifying iconic art pieces.
