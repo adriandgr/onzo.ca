@@ -37,3 +37,12 @@ owner:
     ad-client: ca-pub-(+16digit)
     ad-slot: (10digitNumber)
   disqus-shortname: adriandiaz
+
+authors:
+  onzo:
+    display_name: Ridia Onzo
+    gravatar: 1092e44f33d0454dfb580e19f3687ce8
+    email: obj.art@onzo.ca
+    web: http://www.onzo.ca/
+    twitter: adgr72
+    github: adriandgr
