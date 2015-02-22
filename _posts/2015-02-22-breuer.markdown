@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Marcel Breuer, Slat Chair, 1922"
+title:  "That time a German artist decided to reinvent the chair."
 date:   2015-02-22 00:48:00
 author: onzo
 categories: informal
