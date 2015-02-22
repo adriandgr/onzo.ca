@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 @import url(http://fonts.googleapis.com/css?family=Exo+2:500italic);
+@import url(http://fonts.googleapis.com/css?family=Vollkorn:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab:700);
 
 @font-face
 {
@@ -9,7 +11,8 @@ src: url(sansation_light.woff);
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5
+  font-family: 'Vollkorn', serif;
   color:#777;
   font-weight:300;
 }
@@ -20,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1.adrian {
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Josefin Slab', serif; font-weight: 400;
 }
 
 p, ul, ol, table, pre, dl {
