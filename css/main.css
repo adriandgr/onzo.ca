@@ -273,7 +273,10 @@ a#splashButton:hover {
   margin-top: 5px;
 }
 
-.post-content { margin: 0 0 30px; }
+.post-content {
+	margin: 0 0 30px;
+	positon: relative;
+}
 
 .post-content > * { margin: 20px 0; }
 
