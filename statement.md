@@ -7,13 +7,12 @@ permalink: /statement/
 
 ### Bio
 
-Born Adrian Diaz Gonzalez Romo, Ridia Onzo grew up in Mexico City, where he developed a
-keen interest in the arts. Since an early age he learned to play the violin, a practice he
-continues to enjoy to this day. He moved with his family to Brazil from 2001 to 2006, studying at Escola
-Graduada, the American school of Sao Paulo.
+I grew up in Mexico City, to a family that exposed me and helped me develop a keen interest in the arts. I learned to play the violin, a practice that I
+continue to enjoy to this day. I had the transformative experience of living in Sao Paulo, Brazil from ages 12 to 17.
 
-He has resided in Vancouver, BC since 2009. After completing a foundation year in Computer Science,
-he transferred to the Art History and Visual Art department for his BFA.
+Since 2009, I've resided in Vancouver, BC. After completing a foundation year in Computer Science, I transferred to the Art History and Visual Art department for my BFA.
+
+<strong>Ridia Onzo</strong> is the artistic pseudonym I began to used on January 2015 and is intended to be a unifying web and social media identity.
 
 
 
