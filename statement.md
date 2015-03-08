@@ -19,4 +19,4 @@ a self-aware ritualism of his presence as artist.
 
 Growing up in Mexico City, I quickly developed an interest in the arts. I learned to play the violin since elementary, a practice which I continue to enjoy to this day. I had the transformative experience of living in São Paulo, Brazil from ages 12 to 17. After completing a foundation year in Computer Science at UBC, I transferred to the Art History and Visual Art department for my BFA.
 
-<strong>Ridia Onzo</strong> is the artistic pseudonym I began to used on January 2015 and is intended to be a unifying web and social media identity.
+<strong>Ridia Onzo</strong> is the artistic pseudonym I began to use on January 2015 and is intended to be a unifying web and social media identity.
