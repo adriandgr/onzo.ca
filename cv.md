@@ -15,7 +15,11 @@ permalink: /cv/
 [LoL ((Lots of Love))][5] — Group Show @ Skylight Gallery, SWARM15.
 
 **2013** <br />
-Processed — Group Show by The Shifting @ TAXI, Vancouver.
+Processed — Group Show by The Shifting @ TAXI, Vancouver. <br />
+[In a Celluloid Garden][7] — Group Show @ The Art Gallery (TAG), AMS.
+
+**2011** <br/>
+[Axis of Light][6] — Joint UBC & Emily Carr Photo Show @ AHVA Library Gallery, University of British Columbia.
 
 ### Press
 
@@ -29,3 +33,5 @@ Rhys Edwards. "How Architecture and Art Mingle on UBC Campus." *The Ubyssey*. Ma
 [3]:http://www.concatenationproject.com/about/ "Concatenation Project"
 [4]:http://decoymagazine.ca/the-persistence-of-process-group-exhibition/ "Decoy Magazine"
 [5]:http://www.paarc.ca/swarm15/ "PAARC SWARM"
+[6]:http://gallery.ahva.ubc.ca/2011/11/15/axis-of-light/ "AHVA Department Website"
+[7]:http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=1168&EventTypeNumID=20 "AHVA Department Website"
