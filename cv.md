@@ -41,9 +41,17 @@ permalink: /cv/
 
 <ul style="list-style-type:none">
   <li>
+     <strong>G08 Program Development</strong><br />
+     <em>Satellite Gallery, January 2015 – March 2015.</em> <br />
+     <a href="http://www.satellitegallery.ca/go8.html">GO8</a> is an
+    introductory visual arts program organized by Satellite Gallery for
+    high-school students from across disciplines in Grades 11 and 12. I collaborated with other volunteers to prepare this year's activity schedule and prepared a workshop entitled <em>Collecting & Curating: Presenting Objects</em>. 
+  </li>
+
+  <li>
      <strong>LAB 2014</strong><br />
-     <em>Satellite Gallery, June 2014 – August 2014.</em> </br>
-     Assisted in the development of an experimental guided tour for the show
+     <em>Satellite Gallery, June 2014 – August 2014.</em> <br />
+     I assisted in the development of an experimental guided tour for the show
     <em>Welcome to Screenland</em> and helped gallery visitors navigate and
     engage with the works on display.
   </li>
