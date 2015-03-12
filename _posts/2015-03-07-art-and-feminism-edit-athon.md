@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Narrowing Down Wikipedians’ Gender Gap"
-date:   2015-02-22 00:48:00
-author: onzo
+subtitle:  "Vancouver is to Host Its First Art+Feminism Edit-a-thon"
+date:   2015-03-07 00:48:00
+author: adrian
 categories: informal
 ---
-Vancouver is to Host Its First Art+Feminism Edit-a-thon
 
 If you were to physically enter the virtual meeting room of active Wikipedians, the affectionate name given to the thousands of volunteer editors of the popular free online encyclopedia, you would quickly notice an odd demographic distribution. Nearly nine out of every tenth person in that room would be male. Given that Wikipedia’s registration form does not collect their users’ gender information, the exact figures are uncertain. However, several surveys have revealed that only between 9% and 13% of the editors are female.
 
