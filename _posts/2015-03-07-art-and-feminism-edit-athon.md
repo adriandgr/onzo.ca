@@ -31,6 +31,4 @@ Earlier this week as I stepped into the physical room at the Vancouver Art Galle
 
 The first editing session took place last Friday, March 6 at ECUAD’s library (1400 Johnston St., Granville Island) from 11am to 5pm. Today, another Emily Carr session is taking place between 1 and 5pm. For those wishing to edit from UBC’s campus, the edit-a-thon is taking place both Saturday and Sunday from 11am to 5pm at Buchanan B204/B202 (1866 Main Mall). Patrick Earley is present at UBC today, Saturday, as a Wikipedia representative. Anyone interested in advancing research on female artists is encouraged to participate. For more event details and to RSVP, visit the Wikipedia page, where you may also let fellow editors know which articles you’re interested in improving by stamping your username. This event and a number of similar events taking place internationally, will certainly improve the content landscape of the continuously evolving online resource.
 
-</br></br>
-
-<p>---</br>Text written for Satellite Gallery Blog: [original posting](https://satellitegallery.wordpress.com/2015/03/07/narrowing-down-wikipedians-gender-gap-vancouver-is-to-host-its-first-artfeminism-edit-athon/).</p>
+<p>---<br />Text written for Satellite Gallery Blog: <a href="https://satellitegallery.wordpress.com/2015/03/07/narrowing-down-wikipedians-gender-gap-vancouver-is-to-host-its-first-artfeminism-edit-athon/">original posting</a></p>
