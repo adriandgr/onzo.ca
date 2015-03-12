@@ -15,7 +15,10 @@ shadowbox: true
 
 <div class="thumbs">
 
-<a href="{{site.url}}/img/research/youtube-com/led-matrix.jpg" rel="shadowbox[research]" title="32x8 Led Matrix on MAX7219, youtube.com">
+<a href="{{site.url}}/img/research/code-google-com/schematic.jpg" rel="shadowbox[research]" title="32x8 Led Matrix on MAX7219, youtube.com">
+<img border="0" src="{{site.url}}/img/research/code-google-com/schematic-thumb.jpg"></a>
+
+<a href="{{site.url}}/img/research/youtube-com/led-matrix.jpg" rel="shadowbox[research]" title="Dual Color LED Matrix on MAX7219, code.google.com">
 <img border="0" src="{{site.url}}/img/research/youtube-com/led-matrix-thumb.jpg"></a>
 
 <a href="{{site.url}}/img/research/fffff-at/fatcart.jpg" rel="shadowbox[research]" title="Data Klubb, fffff.at">
