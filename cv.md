@@ -7,19 +7,29 @@ permalink: /cv/
 
 ## Shows
 
-**2015** <br />
-[Concatenation Project][3] — Group Show @ The Art Gallery (TAG), AMS.
+<ul style="list-style-type:none">
+  <li>
+    <strong>2015</strong><br />
+    [Concatenation Project][3] — Group Show @ The Art Gallery (TAG), AMS.
+  </li>
+  <li>
+    <strong>2014</strong><br />
+    [Marinate Me][1] — BFA Grad Show @ Audain Art Centre, University of British Columbia. <br />
+    [LoL ((Lots of Love))][5] — Group Show @ Skylight Gallery, SWARM15.
+  </li>
+  <li>
+    <strong>2013</strong><br />
+    Processed — Group Show by The Shifting @ TAXI, Vancouver. <br />
+    [In a Celluloid Garden][7] — Group Show @ The Art Gallery (TAG), AMS.
+  </li>
+  <li>
+    <strong>2015</strong><br />
+    [Axis of Light][6] — Joint UBC & Emily Carr Photo Show @ AHVA Library Gallery, University of British Columbia.
+  </li>
+</ul>
 
-**2014** <br />
-[Marinate Me][1] — BFA Grad Show @ Audain Art Centre, University of British Columbia. <br />
-[LoL ((Lots of Love))][5] — Group Show @ Skylight Gallery, SWARM15.
 
-**2013** <br />
-Processed — Group Show by The Shifting @ TAXI, Vancouver. <br />
-[In a Celluloid Garden][7] — Group Show @ The Art Gallery (TAG), AMS.
 
-**2011** <br/>
-[Axis of Light][6] — Joint UBC & Emily Carr Photo Show @ AHVA Library Gallery, University of British Columbia.
 
 ### Press
 
