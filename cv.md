@@ -44,8 +44,7 @@ permalink: /cv/
      <strong>G08 Program Development</strong><br />
      <em>Satellite Gallery, January 2015 – March 2015.</em> <br />
      <a href="http://www.satellitegallery.ca/go8.html">GO8</a> is an
-    introductory visual arts program organized by Satellite Gallery for
-    high-school students from across disciplines in Grades 11 and 12. I collaborated with other volunteers to prepare this year's activity schedule and prepared a workshop entitled <em>Collecting & Curating: Presenting Objects</em>. 
+    introductory visual arts program for students from across disciplines in Grades 11 and 12. I helped build this year's activity schedule and prepared a workshop entitled <em>Collecting & Curating: Presenting Objects</em>. 
   </li>
 
   <li>
