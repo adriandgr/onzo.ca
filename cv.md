@@ -33,7 +33,7 @@ permalink: /cv/
     <strong>2015</strong><br />
     <a title="AHVA Department Website"
     href="http://gallery.ahva.ubc.ca/2011/11/15/axis-of-light/">
-    Axis of Light</a> — Joint UBC & Emily Carr Photo Show @ AHVA Library Gallery, University of British Columbia.
+    Axis of Light</a> — Joint UBC & Emily Carr Photo Show @ AHVA Library Gallery, UBC.
   </li>
 </ul>
 
@@ -41,10 +41,16 @@ permalink: /cv/
 
 <ul style="list-style-type:none">
   <li>
+     <strong>The Shifting</strong><br />
+     <em>Founding Member, May 2013 – Present.</em> <br />
+     <a href="http://www.theshifting.ca">The Shifting</a> is an
+    artist collective currently comprised of seven members working in a wide array of disciplines. After two years of operation, the collective is currently re-writing its mandate as it moves forward.
+  </li>
+  <li>
      <strong>G08 Program Development</strong><br />
      <em>Satellite Gallery, January 2015 – March 2015.</em> <br />
      <a href="http://www.satellitegallery.ca/go8.html">GO8</a> is an
-    introductory visual arts program for students from across disciplines in Grades 11 and 12. I collaborated with other volunteers to create this year's activity schedule and prepared a workshop entitled <em>Collecting & Curating: Presenting Objects</em>. 
+    introductory visual arts program for students from across disciplines in Grades 11 and 12. I collaborated with other volunteers to create this year's activity schedule and prepared a workshop entitled <em>Collecting & Curating: Presenting Objects</em>.
   </li>
 
   <li>
