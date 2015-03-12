@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 title: cv
 permalink: /cv/
 ---
 
 
-## CV
+## Shows
 
 **2015** <br />
 [Concatenation Project][3] — Group Show @ The Art Gallery (TAG), AMS.
