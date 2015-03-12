@@ -37,8 +37,17 @@ permalink: /cv/
   </li>
 </ul>
 
+### Volunteer
 
-
+<ul style="list-style-type:none">
+  <li>
+     <strong>LAB 2014</strong><br />
+     <em>Satellite Gallery, June 2014 – August 2014.</em> </br>
+     Assisted in the development of an experimental guided tour for the show
+    <em>Welcome to Screenland</em> and helped gallery visitors navigate and
+    engage with the works on display.
+  </li>
+</ul>
 
 ### Press
 <ul style="list-style-type:none">
