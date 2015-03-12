@@ -72,3 +72,4 @@ permalink: /cv/
 Rhys Edwards. "How Architecture and Art Mingle on UBC Campus." <em>The Ubyssey</em>. March 13, 2013, <a title="The Ubyssey" href="http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/">http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/</a>.
   </li>
 </ul>
+<br />
