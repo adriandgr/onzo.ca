@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 
-### Shows
+### Group Shows
 
 <ul style="list-style-type:none">
   <li>
