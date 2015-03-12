@@ -36,6 +36,7 @@ permalink: /cv/
     Axis of Light</a> — Joint UBC & Emily Carr Photo Show @ AHVA Library Gallery, UBC.
   </li>
 </ul>
+<br />
 
 ### Volunteer
 
@@ -61,6 +62,7 @@ permalink: /cv/
     engage with the works on display.
   </li>
 </ul>
+<br />
 
 ### Press
 <ul style="list-style-type:none">
