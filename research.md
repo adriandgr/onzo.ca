@@ -15,6 +15,9 @@ shadowbox: true
 
 <div class="thumbs">
 
+<a href="{{site.url}}/img/research/blog-adafruit-com/reach-interactive-music-installation.jpg" rel="shadowbox[research]" title="Reach – Interactive Musical Art Installation, blog.adafruit.com">
+<img border="0" src="{{site.url}}/img/research/blog-adafruit-com/reach-interactive-music-installation-thumb.jpg"></a>
+
 <a href="{{site.url}}/img/research/code-google-com/schematic.jpg" rel="shadowbox[research]" title="Dual Color LED Matrix on MAX7219, code.google.com">
 <img border="0" src="{{site.url}}/img/research/code-google-com/schematic-thumb.jpg"></a>
 
