@@ -41,16 +41,10 @@ permalink: /cv/
 
 
 ### Press
-
-**2013** <br />
-Theo Nee Cho. "The Persistence of Process: Group Exhibition." *Decoy Magazine*. August 23, 2013, [http://decoymagazine.ca/the-persistence-of-process-group-exhibition/][4]. <br />
-Rhys Edwards. "How Architecture and Art Mingle on UBC Campus." *The Ubyssey*. March 13, 2013, [http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/][2].
-
-
-[1]:        ""
-[2]:http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/        "The Ubyssey"
-[3]: ""
-[4]:http://decoymagazine.ca/the-persistence-of-process-group-exhibition/ "Decoy Magazine"
-[5]:http://www.paarc.ca/swarm15/ ""
-[6]: ""
-[7]: ""
+<ul style="list-style-type:none">
+  <li>
+      <strong>2013</strong> <br />
+      Theo Nee Cho. "The Persistence of Process: Group Exhibition." <em>Decoy Magazine</em>. August 23, 2013, <a title="Decoy Magazine" href="http://decoymagazine.ca/the-persistence-of-process-group-exhibition/">http://decoymagazine.ca/the-persistence-of-process-group-exhibition/</a>. <br />
+Rhys Edwards. "How Architecture and Art Mingle on UBC Campus." <em>The Ubyssey</em>. March 13, 2013, <a title="The Ubyssey" href="http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/">http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/</a>.
+  </li>
+</ul>
