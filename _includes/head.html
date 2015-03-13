@@ -16,4 +16,5 @@
     <script src="{{ "/js/clmenu.js" | prepend: site.url }}" type="text/javascript"></script>
     <link rel="stylesheet" href="{{ "/css/clmenu.css" | prepend: site.baseurl }}" type="text/css">
     {% if page.shadowbox == true %}{% include shadowbox-init.html %}{% endif %}
+    {% if page.hyphenator == true %}{% include hyphenator.html %}{% endif %}
 </head>
