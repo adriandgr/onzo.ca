@@ -15,6 +15,9 @@ shadowbox: true
 
 <div class="thumbs">
 
+<a href="{{site.url}}/img/research/daily-rituals/work.png" rel="shadowbox[research]" title="Work Scheme, Daily Rituals: How Artists Work">
+<img border="0" src="{{site.url}}/img/research/daily-rituals/work-thumb.png" height="75" width="75"></a>
+
 <a href="{{site.url}}/img/research/jochenmariaweber-de/scheme.jpg" rel="shadowbox[research]" title="Cuckoo – Encrypted Communications, jochenmariaweber.de">
 <img border="0" src="{{site.url}}/img/research/jochenmariaweber-de/scheme-thumb.jpg" height="75" width="75"></a>
 
