@@ -7,7 +7,7 @@ permalink: /recast/
 
 ## Subscribe to *Recast*
 
-**Recast** is the newsletter for adriandiaz.ca. The main edition is sent out every year during
+**Recast** is the newsletter for onzo.ca. The main edition is sent out every year during
 the month of October, containing all of the major projects done throughout the
 previous year. If you'd like, you may also sign up to receive minor updates sent
 out as frequently as every 3 months.
