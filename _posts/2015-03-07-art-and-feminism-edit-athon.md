@@ -16,7 +16,7 @@ categories: informal
   </figcaption>
 </figure>
 
-If you were to physically enter the virtual meeting room of active
+<p class="hyphenate">If you were to physically enter the virtual meeting room of active
 Wikipedians, the affectionate name given to the thousands of
 volunteer editors of the popular free online encyclopedia, you
 would quickly notice an odd demographic distribution. Nearly nine
@@ -24,7 +24,7 @@ out of every tenth person in that room would be male. Given that
 Wikipedia’s registration form does not collect their users’ gender
 information, the exact figures are uncertain. However, several
 surveys have revealed that only between 9% and 13% of the editors
-are female.
+are female.</p>
 
 This gender gap is not the only issue: the phenomenon extends to the site’s content, as entries about women and related topics are far less researched, developed, and discussed than their male counterparts. Last year, a New York Wikimedia group organized the first ever Art+Feminism Edit-athon meetup group, an event designed to encourage women and allies to edit and create missing entries to Wikipedia’s knowledge-base on female artists and feminist art theory. This year, with the support of the University of British Columbia (UBC), the Vancouver Art Gallery (VAG), and Emily Carr University of Art and Design (ECUAD), UBC visual art instructor Christine D’Onofrio has brought this event to Vancouver.
 

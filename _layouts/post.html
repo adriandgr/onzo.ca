@@ -14,9 +14,9 @@ layout: default
     <h2>{{ page.subtitle }}</h2>
     {% endif %}
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • <a href="mailto:{{ author.email }}" target="_blank">{{ author.display_name }}</a>{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-    <div class="hyphenate">
+
   {{ content }}
-</div>
+
   </article>
 
 </div>
