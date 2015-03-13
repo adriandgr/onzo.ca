@@ -13,7 +13,9 @@ systems of vernacular cognizance through an attentiveness to space and the
 objects that regulate them. He will often explore such environments through
 a self-aware ritualism of his presence as artist.
 
-<br /><hr class="small-dark"><br />
+<br />
+<hr class="small-dark">
+<br />
 
 ### Bio
 
