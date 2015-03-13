@@ -270,9 +270,9 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:30%;
   float:left;
-  position:fixed;
+  position:relative;
   bottom:50px;
 }
 
