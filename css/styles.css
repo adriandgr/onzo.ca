@@ -120,11 +120,6 @@ a.siteTitle:active {color: #000; font-weight:bold;}
   max-width: 800px;
   width:80%;
   margin:0 auto;
-  .header {
-    width:30%;
-    float:left;
-    position:fixed;
-  }
 }
 
 
@@ -194,7 +189,11 @@ img {
   max-width:100%;
 }
 
-
+header {
+  width:30%;
+  float:left;
+  position:relative;
+}
 
 header ul {
   list-style:none;
