@@ -49,6 +49,7 @@ hr.small-dark {
 }
 
 ul.cv{
+  list-style-type:none;
   padding: 0px 0px 20px 45px;
 }
 
