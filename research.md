@@ -15,6 +15,12 @@ shadowbox: true
 
 <div class="thumbs">
 
+<a href="{{site.url}}/img/research/jochenmariaweber-de/cuckoo6.png" rel="shadowbox[research]" title="Cuckoo – Encrypted Communications, jochenmariaweber.de">
+<img border="0" src="{{site.url}}/img/research/jochenmariaweber-de/cuckoo6-thumb.png" height="75" width="75"></a>
+
+<a href="{{site.url}}/img/research/jochenmariaweber-de/profile.jpg" rel="shadowbox[research]" title="Cuckoo – Encrypted Communications, jochenmariaweber.de">
+<img border="0" src="{{site.url}}/img/research/jochenmariaweber-de/profile-thumb.jpg" height="75" width="75"></a>
+
 <a href="{{site.url}}/img/research/blog-adafruit-com/reach-interactive-music-installation.jpg" rel="shadowbox[research]" title="Reach – Interactive Musical Art Installation, blog.adafruit.com">
 <img border="0" src="{{site.url}}/img/research/blog-adafruit-com/reach-interactive-music-installation-thumb.jpg" height="75" width="75"></a>
 
