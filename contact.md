@@ -28,7 +28,7 @@ each one of these has been carefully chosen for a number of reasons.
 I don't *tweet* as much as I should but I find this tool to be incredibly useful
 for connecting all sorts of creative individuals. Its 140 character format and
 distribution method is fast // simple // open // elegant // and encourages new connections
-while providing a unique emphasis on ephemera. You may follow me at [adgr72] [1].
+while providing a unique emphasis on ephemera. You may follow me at [ONZOart] [1].
 If you're following me right after reading this, I encourage you to also *@mention* me with the hashtag *#webart*, and I will reply back to you!
 
 *GitHub* is a tool which I'm just
@@ -44,7 +44,7 @@ own data. Diaspora* is a distributed network and therefore does not rely on a ce
 Join and add me at [adriandgr@diasp.de] [3].-->
 
 
-  [1]: https://twitter.com/adgr72        "I love @ mentions"
+  [1]: https://twitter.com/ONZOart        "I love @ mentions"
   [2]: https://github.com/adriandgr  "The heart of this website!"
   [3]: https://diasp.de/people/ed891d3004c901329d9d543d7ed6cc36    "A Facebook alternative"
 
