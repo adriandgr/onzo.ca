@@ -17,7 +17,7 @@ permalink: /cv/
   <li>
     <strong>2014</strong><br />
     <a title="AHVA Department Website" href="http://gallery.ahva.ubc.ca/2014/04/04/marinate-me-ubc-2014-bfaba-visual-art-graduating-exhibition/">
-    Marinate Me</a> — BFA Grad Show @ Audain Art Centre, University of British Columbia. <br />
+    Marinate Me</a> — BFA Grad Show @ Audain Art Centre, UBC. <br />
     <a title="PAARC SWARM"
     href="http://www.paarc.ca/swarm15/">
     LoL ((Lots of Love))</a> — Group Show @ Skylight Gallery, SWARM15.
