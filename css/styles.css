@@ -106,7 +106,7 @@ a.siteTitle:hover {color: #000; font-weight:bold; text-decoration: underline; }
 a.siteTitle:active {color: #000; font-weight:bold;}
 
 .wrapper {
-  width:860px;
+  width:800px;
   margin:0 auto;
 }
 
@@ -241,7 +241,7 @@ header ul a strong {
 }
 
 section {
-  width:600px;
+  width:540px;
   float:right;
   padding-bottom:50px;
 }
