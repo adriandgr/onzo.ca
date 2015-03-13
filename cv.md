@@ -7,7 +7,7 @@ permalink: /cv/
 
 ### Group Shows
 
-<ul style="list-style-type:none">
+<ul class="cv">
   <li>
     <strong>2015</strong><br />
     <a title="Concatenation Project"

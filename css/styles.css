@@ -48,6 +48,10 @@ hr.small-dark {
   border-color: #404040;
 }
 
+ul.cv{
+  padding: 0px 0px 20px 45px;
+}
+
 li{
     margin-top: 10px;
 }
