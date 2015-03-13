@@ -36,11 +36,10 @@ permalink: /cv/
     Axis of Light</a> — Joint UBC & Emily Carr Photo Show @ AHVA Library Gallery, UBC.
   </li>
 </ul>
-<br />
 
 ### Volunteer
 
-<ul style="list-style-type:none">
+<ul class="cv">
   <li>
      <strong>The Shifting</strong><br />
      <em>Founding Member, May 2013 – Present.</em> <br />
@@ -62,10 +61,9 @@ permalink: /cv/
     engage with the works on display.
   </li>
 </ul>
-<br />
 
 ### Press
-<ul style="list-style-type:none">
+<ul class="cv">
   <li>
       <strong>2013</strong> <br />
       Theo Nee Cho. "The Persistence of Process: Group Exhibition." <em>Decoy Magazine</em>. August 23, 2013, <a title="Decoy Magazine" href="http://decoymagazine.ca/the-persistence-of-process-group-exhibition/">http://decoymagazine.ca/the-persistence-of-process-group-exhibition/</a>. <br />
