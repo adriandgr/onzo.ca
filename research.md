@@ -15,6 +15,9 @@ shadowbox: true
 
 <div class="thumbs">
 
+<a href="{{site.url}}/img/research/jochenmariaweber-de/scheme.jpg" rel="shadowbox[research]" title="Cuckoo – Encrypted Communications, jochenmariaweber.de">
+<img border="0" src="{{site.url}}/img/research/jochenmariaweber-de/scheme-thumb.jpg" height="75" width="75"></a>
+
 <a href="{{site.url}}/img/research/jochenmariaweber-de/cuckoo6.png" rel="shadowbox[research]" title="Cuckoo – Encrypted Communications, jochenmariaweber.de">
 <img border="0" src="{{site.url}}/img/research/jochenmariaweber-de/cuckoo6-thumb.png" height="75" width="75"></a>
 
