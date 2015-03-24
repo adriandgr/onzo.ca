@@ -11,8 +11,20 @@ cal_heatmap: true
 
 Hello World
 
-<div id="cal-heatmap"></div>
+<div id="example-c"></div>
 <script type="text/javascript">
 	var cal = new CalHeatMap();
-	cal.init({});
+	cal.init({
+		itemSelector: "#example-c",
+		domain: "week",
+		subDomain: "hour",
+		data: "datas-years.json",
+		start: new Date(2000, 0, 5),
+		cellSize: 10,
+		range: 2,
+		previousSelector: "#example-c-PreviousDomain-selector",
+		nextSelector: "#example-c-NextDomain-selector",
+
+		legend: [2, 4, 6, 8]
+	});
 </script>
