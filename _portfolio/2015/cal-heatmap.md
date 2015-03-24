@@ -11,11 +11,11 @@ cal_heatmap: true
 
 Hello World
 
-<div id="example-c"></div>
+<div id="myHeatMap"></div>
 <script type="text/javascript">
 	var cal = new CalHeatMap();
 	cal.init({
-		itemSelector: "#example-c",
+		itemSelector: "#myHeatMap",
 		domain: "week",
 		subDomain: "hour",
 		data: "datas-years.json",
