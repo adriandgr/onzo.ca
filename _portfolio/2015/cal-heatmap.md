@@ -9,10 +9,6 @@ comments: true
 cal_heatmap: true
 ---
 
-> "Now it is only by labour that thought can be made healthy, <br />
-> and only by thought that labour can be made happy" <br />
-> ~John Ruskin
-
 <div id="myHeatMap"></div>
 <script type="text/javascript">
 	var cal = new CalHeatMap();
@@ -35,6 +31,11 @@ cal_heatmap: true
 **CalHeatMap( work )** <br />
 *Ported javascript module* <br />
 2015
+
+
+> "Now it is only by labour that thought can be made healthy, <br />
+> and only by thought that labour can be made happy" <br />
+> ~John Ruskin
 
 This is an ongoing live project in which the artist will document his productivity on a calendar heatmap. The code is adapted from Kamisama's original [Cal-heatmap](http://kamisama.github.io/cal-heatmap/) javascript module.
 
