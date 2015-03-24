@@ -1,4 +1,6 @@
+// This is the raw data file used to build the cal-heatmap
+// I will sometimes document what I worked on.
 {
-	"1427231121": 1,
-	"1427231501": 3
+	"1427231121": 1,  // 2015-03-24 14:05:21 Loaded first "work unit" to this JSON data file.
+	"1427231501": 1
 }
