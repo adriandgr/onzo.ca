@@ -1,11 +1,11 @@
 {
-	"1427231121": "HELLO! This is a JSON comment. You will see strange strings of numbers
-				   attached to comments because this particular data structure doesn't
-				   allow any information that is 'mapped' to these strings of numbers.
+	"1427231121": "HELLO! This is a JSON comment. You will see strange strings of numbers",
+	"1427231121": "attached to comments because this particular data structure doesn't",
+	"1427231121": "allow any information that is 'mapped' to these strings of numbers.",
 
-				   YOU ARE VIEWING the raw data file used to build the calendar heatmap
-				   I will use text strings  such as this one to comment on what each
-				   work unit represents",
+	"1427231121": "YOU ARE VIEWING the raw data file used to build the calendar heatmap",
+	"1427231121": "I will use text strings such as this one to comment on what each",
+	"1427231121": "work unit represents.",
 
 	"1427231121": "2015-03-24 14:05:21    >> Loaded first work unit to this JSON data file",
 	"1427231121": 1,
