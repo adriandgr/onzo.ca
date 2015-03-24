@@ -21,11 +21,13 @@ cal_heatmap: true
 	var cal = new CalHeatMap();
 	cal.init({
 		itemSelector: "#myHeatMap",
+		itemName: ["work unit", "work units"],
 		domain: "day",
 		subDomain: "hour",
-		data: "datas-years.json",
+		data: "{{ site.url }}/js/cal-heatmap/workData.json",
 		cellSize: 10,
 		range: 10,
+		legendHorizontalPosition: "right",
 		previousSelector: "#example-c-PreviousDomain-selector",
 		nextSelector: "#example-c-NextDomain-selector",
 
