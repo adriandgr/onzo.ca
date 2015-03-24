@@ -31,7 +31,7 @@ cal_heatmap: true
 		previousSelector: "#example-c-PreviousDomain-selector",
 		nextSelector: "#example-c-NextDomain-selector",
 
-		legend: [2, 4, 6, 8]
+		legend: [2, 6, 10, 15]
 	});
 </script>
 <br />
