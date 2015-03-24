@@ -1,15 +1,22 @@
 {
-	"1427231121": "HELLO! This is a JSON comment.",
-	"1427231121": "This is the raw data file used to build the calendar heatmap",
-	"1427231121": "Text strings will be used to comment what the work unit represents",
+	"1427231121": "HELLO! This is a JSON comment. You will see strange strings of numbers
+				   attached to comments because this particular data structure doesn't
+				   allow any information that is 'mapped' to these strings of numbers.
 
-	"1427231121": "2015-03-24 14:05:21 Loaded first work unit to this JSON data files",
+				   YOU ARE VIEWING the raw data file used to build the calendar heatmap
+				   I will use text strings  such as this one to comment on what each
+				   work unit represents",
+
+	"1427231121": "2015-03-24 14:05:21    >> Loaded first work unit to this JSON data file",
 	"1427231121": 1,
 
-	"1427231501": "2015-03-24 14:11:41 Added a link to this file",
+	"1427231501": "2015-03-24 14:11:41    >> Added a link to this file",
 	"1427231501": 1,
 
-	"1427234882": "2015-03-24 15:08:02 Fixed the JSON comment to the current implementation",
-	"1427234882": 1
+	"1427234882": "2015-03-24 15:08:02    >> Fixed the JSON comment structure to the current implementation",
+	"1427234882": 1,
+
+	"1427235597": "2015-03-24 15:19:57    >> Completed the CalHeatMap( work ) setup. Off to lunch.",
+	"1427235597": 1
 
 }
