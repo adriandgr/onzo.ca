@@ -1,6 +1,15 @@
-// This is the raw data file used to build the cal-heatmap
-// I will sometimes document what I worked on.
 {
-	"1427231121": 1,  // 2015-03-24 14:05:21 Loaded first "work unit" to this JSON data file.
-	"1427231501": 1
+	"1427231121": "HELLO! This is a JSON comment.",
+	"1427231121": "This is the raw data file used to build the calendar heatmap",
+	"1427231121": "Text strings will be used to comment what the work unit represents",
+
+	"1427231121": "2015-03-24 14:05:21 Loaded first work unit to this JSON data files",
+	"1427231121": 1,
+
+	"1427231501": "2015-03-24 14:11:41 Added a link to this file",
+	"1427231501": 1,
+
+	"1427234882": "2015-03-24 15:08:02 Fixed the JSON comment to the current implementation",
+	"1427234882": 1
+
 }
