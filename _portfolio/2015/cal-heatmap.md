@@ -19,7 +19,7 @@ cal_heatmap: true
 		data: "datas-years.json",
 		start: new Date(2015, 2, 20),
 		cellSize: 10,
-		range: 7,
+		range: 10,
 		previousSelector: "#example-c-PreviousDomain-selector",
 		nextSelector: "#example-c-NextDomain-selector",
 
