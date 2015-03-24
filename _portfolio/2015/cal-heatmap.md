@@ -43,7 +43,7 @@ cal_heatmap: true
 <br />
 
 **CalHeatMap( work )** <br />
-*Ported javascript module* <br />
+*Ported javascript module, JSON database* <br />
 2015
 
 
