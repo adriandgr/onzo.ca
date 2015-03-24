@@ -35,7 +35,6 @@ cal_heatmap: true
 		},
 		legend: [2, 6, 10, 15]
 	});
-	cal.previous(9);
 </script>
 <br />
 
