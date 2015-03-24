@@ -24,7 +24,6 @@ cal_heatmap: true
 		domain: "day",
 		subDomain: "hour",
 		data: "datas-years.json",
-		start: new Date(2015, 2, 20),
 		cellSize: 10,
 		range: 10,
 		previousSelector: "#example-c-PreviousDomain-selector",
