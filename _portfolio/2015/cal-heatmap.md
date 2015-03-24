@@ -17,9 +17,9 @@ cal_heatmap: true
 		domain: "day",
 		subDomain: "hour",
 		data: "datas-years.json",
-		start: new Date(2015, 0, 5),
+		start: new Date(2015, 2, 20),
 		cellSize: 10,
-		range: 2,
+		range: 7,
 		previousSelector: "#example-c-PreviousDomain-selector",
 		nextSelector: "#example-c-NextDomain-selector",
 
