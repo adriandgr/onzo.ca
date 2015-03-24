@@ -9,6 +9,19 @@ comments: true
 cal_heatmap: true
 ---
 
+<button id="example-c-PreviousDomain-selector" class="btn" style="margin-bottom: 10px;">
+    <i class="icon icon-chevron-left">
+        ::before
+    </i>
+</button>
+<button id="example-c-NextDomain-selector" class="btn" style="margin-bottom: 10px;">
+	<i class="icon icon-chevron-right">
+
+    ::before
+
+</i>
+</button>
+
 <div id="myHeatMap"></div>
 <script type="text/javascript">
 	var cal = new CalHeatMap();
