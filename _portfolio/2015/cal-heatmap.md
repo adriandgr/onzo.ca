@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title:  "Work.heatmap"
+title:  "CalHeatMap( work )"      
 year: 2015
 date:   2015-03-24 11:46:48
 author: adrian
@@ -9,7 +9,9 @@ comments: true
 cal_heatmap: true
 ---
 
-Hello World
+> "Now it is only by labour that thought can be made healthy, 
+> and only by thought that labour can be made happy" 
+> ~John Ruskin
 
 <div id="myHeatMap"></div>
 <script type="text/javascript">
@@ -28,9 +30,9 @@ Hello World
 		legend: [2, 4, 6, 8]
 	});
 </script>
+<br />
 
-
-**Work.heatmap** <br />
+**CalHeatMap( work )** <br />
 *Ported javascript module* <br />
 2015
 
