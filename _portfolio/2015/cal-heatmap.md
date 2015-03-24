@@ -14,7 +14,7 @@ cal_heatmap: true
 	var cal = new CalHeatMap();
 	cal.init({
 		itemSelector: "#myHeatMap",
-		domain: "week",
+		domain: "day",
 		subDomain: "hour",
 		data: "datas-years.json",
 		start: new Date(2015, 0, 5),
