@@ -30,7 +30,9 @@ cal_heatmap: true
 		legendHorizontalPosition: "right",
 		previousSelector: "#example-c-PreviousDomain-selector",
 		nextSelector: "#example-c-NextDomain-selector",
-
+		onClick: function() {
+			window.open("{{ site.url }}/js/cal-heatmap/workData.json", "_self");
+		},
 		legend: [2, 6, 10, 15]
 	});
 </script>
