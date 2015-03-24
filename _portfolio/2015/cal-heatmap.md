@@ -9,7 +9,7 @@ comments: true
 cal_heatmap: true
 ---
 
-> "Now it is only by labour that thought can be made healthy, 
+> "Now it is only by labour that thought can be made healthy, <br />
 > and only by thought that labour can be made happy" <br />
 > ~John Ruskin
 
