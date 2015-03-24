@@ -10,16 +10,10 @@ cal_heatmap: true
 ---
 
 <button id="example-c-PreviousDomain-selector" class="btn" style="margin-bottom: 10px;">
-    <i class="icon icon-chevron-left">
-        ::before
-    </i>
+    <i class="icon icon-chevron-left"> &#60; </i>
 </button>
 <button id="example-c-NextDomain-selector" class="btn" style="margin-bottom: 10px;">
-	<i class="icon icon-chevron-right">
-
-    ::before
-
-</i>
+	<i class="icon icon-chevron-right"> &#62; </i>
 </button>
 
 <div id="myHeatMap"></div>
