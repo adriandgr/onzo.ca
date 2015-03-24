@@ -51,5 +51,7 @@ cal_heatmap: true
 > and only by thought that labour can be made happy" <br />
 > ~John Ruskin
 
-This is an ongoing live project in which the artist will document his productivity on a calendar heatmap. The code is adapted from Kamisama's original [Cal-heatmap](http://kamisama.github.io/cal-heatmap/) javascript module.
+CalHeatMap( work ) is an ongoing live project through which the artist will set out to document his productivity levels on a daily basis. A level of play takes place between the arbitrarily chosen unit of measure ("work units") and the high precision medium of display: a calendar heatmap. The artists, in an attempt to increase his mindfulness towards time and labour, paradoxically burdens himself with the obsessiveness involved with logging every single action done throughout the day. 
+
+The calendar heatmap code was adapted from Kamisama's original [Cal-heatmap](http://kamisama.github.io/cal-heatmap/) javascript module.
 
