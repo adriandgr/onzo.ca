@@ -35,7 +35,7 @@ cal_heatmap: true
 		},
 		legend: [2, 6, 10, 15]
 	});
-	setTimeout(func, 4000);
+	setTimeout(func, 1000);
 	function func() {
      cal.previous(9);
 	}
