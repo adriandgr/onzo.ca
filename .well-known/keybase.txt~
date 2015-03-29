@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/adgr72
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.adriandiaz.ca
+  * I am adgr72 (https://keybase.io/adgr72) on keybase.
+  * I have a public key with fingerprint 90F4 562C 1CB3 E064 C932  9247 0BC8 6D16 139B E368
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "90f4562c1cb3e064c93292470bc86d16139be368",
+            "host": "keybase.io",
+            "key_id": "0BC86D16139BE368",
+            "uid": "2059748c7507974ae37277d808f8bf00",
+            "username": "adgr72"
+        },
+        "merkle_root": {
+            "ctime": 1418407660,
+            "hash": "c264af10a99a827bde97e4a451af4b0d4722ed0c4924c2c54e7d8ad0998e87e5b4245e5fac9c775e3a020e7a2b1db60850055212d6662a2cb4df9ea16fae08c2",
+            "seqno": 107806
+        },
+        "service": {
+            "hostname": "www.adriandiaz.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1418407692,
+    "expire_in": 157680000,
+    "prev": "10b3413aa2ac2c5900423b4ee93218eecb736b51517e166890ab286a38cb9ead",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkn1QVFUYxlcQEfALP4oUg7mhkOB67rnfmwwJJI0OmulQogOde+7Z3Rvs3u3u
+CgLuKBNT2lo6ChXDjKYhg0oaEZH2MQ4MMyxuE1pmJJgFQUzp4PgRE0N2L9GMdf46
+Z87vfd7nec85ODvcEjYtpsv1yIK6Aee0iyOyZUtg1awKStaUMspWQeFilbh95s6N
+XISyUUWkTEZeYlW1RLemEOvL3sQpJo0qIbpX1dwGBayClaH8aSZuFttVt4PoHl01
+tSgJ2FmOh5jGMkMAz2KJgRJkBSBjkVdonmYkmTC8aEg6Na/vP12pSc1CVTG7ZGaJ
+fPYkn/nMP/yOyQsIOElgRSxwQDA2iDACFARFBKJdlO0AmKCX6FORkOLQBWi6dRG9
+qJgU6po2GRn7VBOgWVpkgcDzwPCDvE6jBEOeRXYaIElCIhRkhUgCYRHL0cjOykBh
+BQiJAjBrxMIQcywxuiMFSJJIRIFwMgtZjnB2hCUsCBxhEICACAjKtCLzQOQA4DhI
+Q4XneYggllnFLhFE83ZEgIihEcBLXnFrhjkgiID3m2e9RMXE9G0ObSpbaWmpFSm6
+ityKisqtGBmVHl3zaVgrNq6dPp/HZib3lXkm8WYiF04pFcqqUeR2PPywtIH+byoS
+TKPITo+qk0LVJDiBF4GxzD6kxNCkgcywNIMQROYoJABYyMgsIcar0yIhWBYYXuZo
+jhYIzfOiBJAMRR4xIpaNzMpDWTnDKHIYml7V4Ua+HTqh/PvC4qdbpoVZZkSEmV/X
+Eh0179//zIXmTiycF7zflrdDDU9enP5O1Z0fty38xHtUaU3PvTly9E7Glfrprfre
+z158kjsQ90H1cLnrm+6RjLPNtdbyvkjv3ZjnchMjf3k8cm0V/uLNhtBT59tSL5+L
+WJqxIW3UdvVwQVXz2mtN8p5suHLxYEFndRWMS2gtqhJXHfdd4dqiO95duvJBcpdG
+Vy//6tzNR2/kvhZb3zZ8bHl0cHMxxO2eCHt3Zf+etuW7/3p1zZz+rZe2qtJ3J6qy
+XJ9enr/lJ8uHjUnbAvd+vpt/6KwjpIyE3muePnqs42To44R5Uqe/x/kC1VQT56KD
+F9oz3rcluxq3XB87vdEW1bgpoXtuw+Z7wT3axajI5K4kFKkN/dbrZpmWvKQVjrbx
+qIB9//z48Q2xX0PYfvnqwKHx60MVqYHkt/Krs3yjD1quxYQH6Pyz7atRl1K2cfDZ
+4Nuzz8+Yc3HBom+/F9dTmzJnBVOa1ty2PZ1A3bwgvjTcdYCOW5KS8uvJw/Ymel3P
+ul1K7SnPE/Gh3pXp/qTYcF9KdXeOlHRwIrcuefvArQWtwdfHblcWzbTgrZU7d1ee
+adk+aOncP+GsXZI9VvLY80dq6nPOlBf4+95Ydip/2d76Wz2pCZdax/88sn71R0Mt
+p+/n1W6KWZE/dpzHQQff11vXn9N/IzzgDqQP7Vvkz2v44/e6mR2Y/HAiJbp7MK8m
+8svKz3fl/A0=
+=jc6J
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adgr72
+
+==================================================================
