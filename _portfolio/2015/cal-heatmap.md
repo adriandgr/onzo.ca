@@ -7,6 +7,8 @@ author: adrian
 shadowbox: true
 comments: true
 cal_heatmap: true
+link_pre: true
+img_preview: img/2015/calheatmap/previewCal.png
 ---
 
 <button id="example-c-PreviousDomain-selector" class="btn" style="margin-bottom: 10px;">
