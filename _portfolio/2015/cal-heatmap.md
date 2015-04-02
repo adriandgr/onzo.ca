@@ -8,7 +8,7 @@ shadowbox: true
 comments: true
 cal_heatmap: true
 openGraph: true
-og_image: img/2015/calheatmap/previewCal.png
+og_image: img/og/previewCal.png
 og_description: "CalHeatMap( work ) is an ongoing live project through which the artist will set out to document his productivity levels on a daily basis."
 ---
 
