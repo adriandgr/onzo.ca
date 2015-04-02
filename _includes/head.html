@@ -4,6 +4,7 @@
     <title>{{ site.title }}.get({% if page.title %} '{{ page.title }}' {% else %} 'content' {% endif %})</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="{{ site.description }}">
+    {% if page.openGraph == true %}{% include openGraph.html %}{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
     <!-- Custom CSS -->
@@ -18,6 +19,7 @@
     {% if page.shadowbox == true %}{% include shadowbox-init.html %}{% endif %}
     {% if page.hyphenator == true %}{% include hyphenator.html %}{% endif %}
     {% if page.cal_heatmap == true %}{% include cal-heatmap.html %}{% endif %}
-    {% if page.link_pre == true %}{% include link-preview.html %}{% endif %}
     {% include google-analytics.html %}
 </head>
+
+604.803.1913
