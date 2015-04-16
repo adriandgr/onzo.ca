@@ -5,6 +5,9 @@ date:   2014-07-25 16:59:48
 author: adrian
 shadowbox: true
 comments: true
+openGraph: true
+og_image: img/og/previewBonheur.png
+og_description: "Through a series of digital manipulations, the artist takes Matisse's painting Le Bonheur de Vivre through a journey of different color spaces."
 ---
 
 

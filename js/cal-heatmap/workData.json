@@ -1,28 +1,295 @@
 {
 	"1427231121": "HELLO! This is a JSON comment. You will see strange strings of numbers",
 	"1427231121": "attached to comments because this particular data structure doesn't",
-	"1427231121": "allow any information that is not 'mapped' to these strings of numbers.",
+	"1427231121": "allow for any information that is not 'mapped' to these strings of numbers.",
 
 	"1427231121": "YOU ARE VIEWING the raw data file used to build the calendar heatmap",
 	"1427231121": "I will use text strings such as this one to comment on what each",
 	"1427231121": "work unit represents.",
 
-	"1427231121": "2015-03-24 14:05:21    >> Loaded first work unit to this JSON data file",
+	"1427231121": " >> Loaded first work unit to this JSON data file",
 	"1427231121": 1,
 
-	"1427231501": "2015-03-24 14:11:41    >> Added a link to this file",
+	"1427231501": " >> Added a link to this file",
 	"1427231501": 1,
 
-	"1427234882": "2015-03-24 15:08:02    >> Fixed the JSON comment structure to the current implementation",
+	"1427234882": " >> Fixed the JSON comment structure to the current implementation",
 	"1427234882": 1,
 
-	"1427235597": "2015-03-24 15:19:57    >> Completed the CalHeatMap( work ) setup. Off to lunch.",
+	"1427235597": " >> Completed the CalHeatMap( work ) setup. Off to lunch.",
 	"1427235597": 1,
 
-	"1427238074": "2015-03-24 16:01:14    >> Wrote statement for CalHeatMap( work )",
+	"1427238074": " >> Wrote statement for CalHeatMap( work )",
 	"1427238074": 3,
 
-	"1427242382": "2015-03-24 17:13:02    >> Taking notes at art history lecture",
-	"1427242382": 1
+	"1427242382": " >> Taking notes at art history lecture.",
+	"1427242382": 1,
+
+	"1427404525": " >> Finished setup of Ubuntu system.",
+	"1427404525": 5,
+
+	"1427415238": " >> Taking more notes at art history.",
+	"1427415238": 1,
+
+	"1427418908": " >> Taking more notes at art history.",
+	"1427418908": 1,
+
+	"1427423655": " >> ART OPENING: Asking For It, Patryk Stasieczek @ FIELD Contemporary",
+	"1427423655": 2,
+
+	"1427427632": " >> Official launch of The Projection Room",
+	"1427427632": 3,
+
+	"1427428540": " >> ART OPENING: A FRAMED @ Astro Turf Gallery",
+	"1427428540": 2,
+
+	"1427482801": " >> START of Paid Labour",
+	"1427482801": 1,
+
+	"1427486401": " >> Paid Labour",
+	"1427486401": 1,
+
+	"1427490001": " >> Paid Labour",
+	"1427490001": 2,
+
+	"1427493601": " >> Paid Labour",
+	"1427493601": 3,
+
+	"1427497201": " >> Paid Labour",
+	"1427497201": 1,
+
+	"1427500801": " >> END of Paid Labour",
+	"1427500801": 2,
+
+	"1427509808": " >> Socializing at pop-up show",
+	"1427509808": 3,
+
+	"1427513408": " >> Socializing at pop-up show",
+	"1427513408": 1,
+
+	"1427517008": " >> Socializing at pop-up show",
+	"1427517008": 1,
+
+	"1427564310": " >> Logging work units",
+	"1427564310": 1,
+
+	"1427569201": " >> START of Paid Labour",
+	"1427569201": 1,
+
+	"1427572801": " >> Paid Labour",
+	"1427572801": 1,
+
+	"1427576401": " >> Paid Labour",
+	"1427576401": 1,
+
+	"1427580001": " >> Paid Labour",
+	"1427580001": 2,
+
+	"1427583601": " >> Paid Labour",
+	"1427583601": 4,
+
+	"1427587201": " >> Paid Labour",
+	"1427587201": 3,
+
+	"1427591708": " >> END of Paid Labour",
+	"1427591708": 1,
+
+	"1427598728": " >> ART OPENING: Fabricated Dualities @ 303 Columbia",
+	"1427598728": 1,
+
+	"1427640634": " >> Make breakfast",
+	"1427640634": 1,
+
+	"1427642134": " >> Essay reading",
+	"1427642134": 1,
+
+	"1427645722": " >> Essay reading",
+	"1427645722": 2,
+
+	"1427649168": " >> Essay reading",
+	"1427649168": 3,
+
+	"1427652852": " >> Essay reading",
+	"1427652852": 2,
+
+	"1427656459": " >> Essay reading",
+	"1427656459": 1,
+
+	"1427660658": " >> Essay reading",
+	"1427660658": 1,
+
+	"1427672901": " >> Essay reading",
+	"1427672901": 1,
+
+	"1427674912": " >> Essay reading",
+	"1427674912": 4,
+
+	"1427678058": " >> Essay reading",
+	"1427678058": 1,
+
+	"1427681658": " >> Essay writing",
+	"1427681658": 4,
+
+	"1427684884": " >> Essay writing",
+	"1427684884": 7,
+
+	"1427688848": " >> Essay writing",
+	"1427688848": 8,
+
+	"1427691614": " >> Essay writing",
+	"1427691614": 12,
+
+	"1427696148": " >> Submit essay",
+	"1427696148": 2,
+	
+	"1427752861": " >> START of Paid Labour",
+	"1427752861": 1,
+	
+	"1427756461": " >> Paid Labour",
+	"1427756461": 1,
+	
+	"1427760061": " >> Paid Labour",
+	"1427760061": 2,
+	
+	"1427763661": " >> Paid Labour",
+	"1427763661": 3,
+	
+	"1427767261": " >> END of Paid Labour",
+	"1427767261": 1,
+
+	"1427776201": " >> Work on private project.",
+	"1427776201": 2,
+	
+	"1427780105": " >> Work on private project.",
+	"1427780105": 2,
+	
+	"1427783535": " >> Work on private project.",
+	"1427783535": 3,
+	
+	"1427700735": " >> Work on private project.",
+	"1427700735": 5,
+	
+	"1427704815": " >> Work on private project.",
+	"1427704815": 2,
+	
+	"1427706735": " >> Work on private project.",
+	"1427706735": 1,
+
+	"1427822101": " >> Learning Ruby",
+	"1427822101": 1,
+	
+	"1427829601": " >> Learning Ruby",
+	"1427829601": 2,
+	
+	"1427839321": " >> Learning Ruby",
+	"1427839321": 3,
+	
+	"1427843641": " >> Learning Ruby",
+	"1427843641": 3,
+	
+	"1427847601": " >> Learning Ruby",
+	"1427847601": 2,
+
+	"1427912115": " >> Learning JavaScript",
+	"1427912115": 1,
+	
+	"1427916014": " >> Learning JavaScript",
+	"1427916014": 2,
+	
+	"1427922525": " >> Learning JavaScript",
+	"1427922525": 2,
+	
+	"1427926628": " >> Learning JavaScript",
+	"1427926628": 2,
+	
+	"1427929441": " >> Learning JavaScript",
+	"1427929441": 1,
+
+	"1427938201": " >> Cooking for weekly dinner.",
+	"1427938201": 1,
+
+	"1427946188": " >> Logging work units.",
+	"1427946188": 3,
+
+	"1427950753": " >> Added OpenGraph metadata capability to ONZO.ca",
+	"1427950753": 1,
+	
+	"1427951088": " >> Corrected artist statement for CalHeatMap",
+	"1427951088": 1,
+	
+	"1427994610": " >> Make Breakfast",
+	"1427994610": 1,
+	
+	"1428000319": " >> Learning JavaScript",
+	"1428000319": 2,
+	
+	"1428001459": " >> Learning JavaScript",
+	"1428001459": 2,
+	
+	"1428006194": " >> Learning JavaScript",
+	"1428006194": 2,
+	
+	"1428013394": " >> Image editing for Satellite.",
+	"1428013394": 3,
+	
+	"1428018505": " >> Image editing for Satellite",
+	"1428018505": 4,
+	
+	"1428023545": " >> ART OPENING: CAMERA MACHINA by Byron Dauncey and Kevin Day @ Robert Lynds Gallery",
+	"1428023545": 1,
+	
+	"1428025765": " >> VIP pre-opening of Capture Launch Party @ Satellite Gallery",
+	"1428025765": 2,
+	
+	"1428028225": " >> Capture Launch Party @ Satellite Gallery",
+	"1428028225": 2,
+	
+	"1428030085": " >> Capture Launch Party @ Satellite Gallery",
+	"1428030085": 2,
+	
+	"1428033925": " >> Capture Launch Party @ Satellite Gallery",
+	"1428033925": 1,
+	
+	"1428038065": " >> Walking towards a social night",
+	"1428038065": 1,
+	
+	"1428042265": " >> Social night.",
+	"1428042265": 1,
+	
+	"1428045145": " >> Social night.",
+	"1428045145": 2,
+	
+	"1428048925": " >> Pressure Valve @ Skylight",
+	"1428048925": 2,
+	
+	"1428053425": " >> Pressure Valve @ Skylight",
+	"1428053425": 3,
+	
+	"1428055525": " >> Pressure Valve @ Skylight",
+	"1428055525": 4,
+
+	"1428058880": " >> Walk back home.",
+	"1428058880": 2,
+
+	"1428080470": " >> Getting haircut",
+	"1428080470": 1,
+
+	"1428087670": " >> Satellite Shift // Curator tour.",
+	"1428087670": 1,
+	
+	"1428091270": " >> Satellite Shift // Curator tour.",
+	"1428091270": 1,
+	
+	"1428094870": " >> Satellite Shift // Curator tour.",
+	"1428094870": 3,
+	
+	"1428098470": " >> Satellite Shift.",
+	"1428098470": 2,
+	
+	"1428102070": " >> Satellite Shift.",
+	"1428102070": 1,
+	
+	"1428105670": " >> Satellite Shift.",
+	"1428105670": 1
 
 }

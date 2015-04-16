@@ -5,6 +5,9 @@ date:   2013-07-25 16:59:48
 author: adrian
 shadowbox: true
 comments: true
+openGraph: true
+og_image: img/og/previewOneShot.png
+og_description: "In this live performance, the artist creates a delineated space within the gallery, where he carries out a series of unscripted actions."
 ---
 
 <a href="{{site.url}}/img/2013/one-shot/one-shot-doc.jpg" rel="shadowbox" title="One Shot">

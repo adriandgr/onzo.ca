@@ -7,6 +7,9 @@ author: adrian
 shadowbox: true
 comments: true
 cal_heatmap: true
+openGraph: true
+og_image: img/og/previewCal.png
+og_description: "CalHeatMap( work ) is an ongoing live project through which the artist will set out to document his productivity levels on a daily basis."
 ---
 
 <button id="example-c-PreviousDomain-selector" class="btn" style="margin-bottom: 10px;">
@@ -51,7 +54,7 @@ cal_heatmap: true
 > and only by thought that labour can be made happy" <br />
 > ~John Ruskin
 
-CalHeatMap( work ) is an ongoing live project through which the artist will set out to document his productivity levels on a daily basis. A level of play takes place between the arbitrarily chosen unit of measure ("work units") and the high precision medium of display: a calendar heatmap. The artists, in an attempt to increase his mindfulness towards time and labour, paradoxically burdens himself with the obsessiveness involved with logging every single action done throughout the day. 
+CalHeatMap( work ) is an ongoing live project through which the artist will set out to document his productivity levels on a daily basis. A level of play takes place between the arbitrarily invented unit of measure ("work units") and the high precision medium of display: a calendar heatmap. The artist, in an attempt to increase his mindfulness towards time and labour, paradoxically burdens himself with the added obsessiveness of logging every single action done throughout the day. 
 
 The calendar heatmap code was adapted from Kamisama's original [Cal-heatmap](http://kamisama.github.io/cal-heatmap/) javascript module.
 
