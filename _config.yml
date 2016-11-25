@@ -2,15 +2,19 @@
 title: ONZO.art
 email: web.art@adriandiaz.ca
 description: "The home of Ridia Onzo's artist portfolio."
-baseurl: "http://www.onzo.ca"
-url: "http://www.onzo.ca"
+url: "http://127.0.0.1:4000"  # http://127.0.0.1:4000
+                           # http://www.onzo.ca
 twitter_username: adgr72
 github_username:  adriandgr
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE", "Gemfile", "Gemfile.lock", "CNAME"]
 
 
 collections:
