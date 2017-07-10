@@ -8,13 +8,13 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.url }}">
-    <link rel="stylesheet" href="{{ "/css/pygment_trac.css" | prepend: site.url }}">
+    <link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/pygment_trac.css" | prepend: site.baseurl }}">
     <link rel="icon" type="image/x-icon" href="http://adriandgr.github.io/code/favicon.ico" />
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script src="{{ "/js/clmenu.js" | prepend: site.url }}" type="text/javascript"></script>
+    <script src="{{ "/js/clmenu.js" | prepend: site.baseurl }}" type="text/javascript"></script>
     <link rel="stylesheet" href="{{ "/css/clmenu.css" | prepend: site.baseurl }}" type="text/css">
     {% if page.shadowbox == true %}{% include shadowbox-init.html %}{% endif %}
     {% if page.hyphenator == true %}{% include hyphenator.html %}{% endif %}
